@@ -1,0 +1,1 @@
+$(document).ready(function(){"use strict";$("html").removeClass("fade-out"),$(".post-content").fitVids({customSelector:['iframe[src*="ted.com"]']}),$(".off-canvas-toggle").click(function(t){t.preventDefault(),$(".off-canvas-container").toggleClass("is-active")})});

@@ -11,23 +11,10 @@ youtube: UCas0984madnjd8 #Youtube channel ID
 
 markdown: kramdown
 permalink: "/:title"
+paginate: 8
 
 plugins:
-  - jekyll-paginate-v2
-
-pagination:
-  enabled: true
-  debug: false
-  collection: 'posts'
-  per_page: 8
-  permalink: '/page/:num.html'
-  title: ':title - Page :num'
-  limit: 0
-  sort_field: 'date'
-  sort_reverse: true
-  category: 'posts'
-  extension: html
-  indexpage: 'blog'
+  - jekyll-paginate
 
 exclude:
   - Gemfile

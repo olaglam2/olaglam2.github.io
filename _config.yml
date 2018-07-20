@@ -1,0 +1,33 @@
+# EDIT THIS FILE
+
+title: Sample BHW #Site Title
+description: Jekyll site for BHW members #Site Description
+baseurl: 
+url: https://frostnfeather.github.io #Site domain. Enter protocol too. http:// or https://
+twitter: johndoe #Twiiter username
+facebook: johndoe #FB username
+instagram: johndoe #IG username
+youtube: UCas0984madnjd8 #Youtube channel ID
+
+markdown: kramdown
+permalink: "/:title"
+
+plugins:
+  - jekyll-paginate-v2
+
+pagination:
+  enabled: true
+  debug: false
+  collection: 'posts'
+  per_page: 8
+  permalink: '/page/:num.html'
+  title: ':title - Page :num'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+  category: 'posts'
+  extension: html
+  indexpage: 'blog'
+
+exclude:
+  - Gemfile

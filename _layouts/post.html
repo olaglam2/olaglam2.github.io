@@ -1,0 +1,119 @@
+---
+layout: default
+---
+<div class='c-post-hero'>
+  <div class='o-grid _o-grid--full'>
+    <div class='o-grid__col o-grid__col--4-4-s o-grid__col--4-4-m o-grid__col--2-3-l'>
+      <div class='c-post-hero__media'>
+        <div class='c-post-hero__image js-fadein' style='background-image: url({{ page.cover }})'></div>
+      </div>
+    </div>
+    <div class='o-grid__col o-grid__col--4-4-s o-grid__col--1-3-m'>
+      <div class='c-post-hero__content'>
+        <h1 class='c-post-hero__title'>{{ page.title }}</h1>
+        <time class='c-post-hero__date' datetime='{{ page.date | date_to_string }}'>{{ page.date | date_to_long_string }}</time>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class='o-wrapper'>
+  <div class='o-grid'>
+    <div class='o-grid__col o-grid__col--2-3-m'>
+      <article class='c-post'>
+        <div class='c-content'>
+          {{ content }}
+        </div>
+        <div class='o-grid'>
+          <div class='o-grid__col o-grid__col--4-4-s o-grid__col--2-4-m o-grid__col--3-4-l'>
+            <div class='c-tags'>
+            </div>
+          </div>
+          <div class='o-grid__col o-grid__col--4-4-s o-grid__col--1-4-m o-grid__col--1-4-l'>
+          <ul class='c-share o-plain-list'>
+            <li class='c-share__item'>
+            <a class='c-share__link c-share__link--twitter' title='Tweet' href="https://twitter.com/intent/tweet?text={{ page.title }}+@{{ site.twitter }}&amp;url={{ page.url | prepend: site.url }}" onclick="window.open(this.href, 'twitter-share', 'width=550, height=235'); return false;">
+            <div data-icon='ei-sc-twitter' data-size='s' class='c-share__icon c-share__icon--twitter'></div>
+            </a>
+            </li>
+            <li class='c-share__item'>
+            <a class='c-share__link c-share__link--facebook' title='Share on Facebook' href="https://facebook.com/sharer.php?u={{ page.url | prepend: site.url }}" onclick="window.open(this.href, 'facebook-share', 'width=580, height=296'); return false;">
+            <div data-icon='ei-sc-facebook' data-size='s' class='c-share__icon c-share__icon--facebook'></div>
+            </a>
+          </li>
+          </ul>
+          </div>
+        </div>
+<hr>
+<div class='o-grid__col o-grid__col--center o-grid__col--4-4-s o-grid__col--1-3-l'>
+  <button class='c-btn c-btn--full js-load-disqus' onclick='disqus(); return false;'>Comments</button>
+</div>
+<hr>
+<div id='disqus_thread'></div>
+<script>
+  var disqus_shortname = '';
+  var disqus_config = function () {
+    this.page.url = '{{ page.url | prepend: site.url }}';
+  };
+
+  function disqus() {
+    var d = document, s = d.createElement('script');
+    s.src = 'https://' + disqus_shortname + '.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    document.getElementsByClassName('js-load-disqus')[0].setAttribute('disabled', '');
+    document.getElementsByClassName('js-load-disqus')[0].classList.add('c-btn--disabled');
+  }
+</script>
+<noscript>Please enable JavaScript to view the <a href='https://disqus.com/?ref_noscript' rel='nofollow'>comments powered by Disqus.</a></noscript>
+</article>
+    </div>
+
+    <div class='o-grid__col o-grid__col--1-3-m'>
+        <div class='c-sidebar'>
+
+<div class='c-widget'>
+  <h5 class='c-widget__title'>Recent Stories</h5>
+    {% for post in site.related_posts limit:4 %}
+      <a href='{{ post.url }}' class='c-teaser'>
+        <div class='c-teaser__content'>
+          <h3 class='c-teaser__title'>{{ post.title }}</h3>
+          <time class='c-teaser__date' datetime='{{ post.date | date_to_string }}' title='{{ post.date | date_to_string }}'>{{ post.date | date_to_long_string }}</time>
+        </div>
+          <div class='c-teaser__media'>
+            <div class='c-teaser__image js-fadein' style='background-image: url({{ post.cover }})' aria-label='{{ post.title }}'></div>
+          </div>
+      </a>
+    {% endfor %}  
+  </div>
+
+  <div class='c-widget'>
+  <h5 class='c-widget__title'>Follow Me</h5>
+  <ul class='o-plain-list'>
+  
+    <li style="display:inline-block;">
+      <a href='https://www.facebook.com/{{ site.facebook }}' target='_blank'>
+        <span class='c-social-nav__icon' data-icon='ei-sc-facebook' data-size='s'></span>
+      </a>
+    </li>
+  <li style="display:inline-block;">
+      <a href='https://twitter.com/{{ site.twitter }}' target='_blank'>
+        <span class='c-social-nav__icon' data-icon='ei-sc-twitter' data-size='s'></span>
+      </a>
+    </li>
+  <li style="display:inline-block;">
+      <a href='https://www.instagram.com/{{ site.instagram }}' target='_blank'>
+        <span class='c-social-nav__icon' data-icon='ei-sc-instagram' data-size='s'></span>
+      </a>
+    </li>
+        <li style="display:inline-block;">
+      <a href='https://www.youtube.com/channel/{{ site.youtube }}' target='_blank'>
+        <span class='c-social-nav__icon' data-icon='ei-sc-youtube' data-size='s'></span>
+      </a>
+    </li>
+</ul>
+</div>
+</div>
+    </div>
+  </div>
+</div>

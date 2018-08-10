@@ -29,6 +29,11 @@ layout: default
         <time class='c-post-card__date' datetime='{{ post.date }}' title='{{ post.date | date_to_string }}'>{{ post.date | date_to_string }}</time>
         <div class='c-post-card__author'><span class='c-author__links-icon' data-icon='ei-clock' data-size='s'></span>&nbsp;{% assign words = content | number_of_words %}{% if words < 360 %}1 min read{% else %}{{ words | divided_by:360 }} mins read{% endif %}</div>
       </div>
+        <div>
+          <h3 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h3>
+         
+	          <a class = "readmore" href={{site.baseurl}}{{post.url}}>Read More</a>  
+        </div>
     </div>
   </div>
 </div>

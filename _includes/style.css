@@ -1404,7 +1404,7 @@ html,body{
 }
 @media (min-width: 64em){
     .c-post-card--first .c-post-card__image:after{
-        padding-bottom:56.25%
+        padding-bottom:50%
     }
 }
 .c-teaser{

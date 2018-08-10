@@ -30,9 +30,10 @@ layout: default
         <div class='c-post-card__author'><span class='c-author__links-icon' data-icon='ei-clock' data-size='s'></span>&nbsp;{% assign words = content | number_of_words %}{% if words < 360 %}1 min read{% else %}{{ words | divided_by:360 }} mins read{% endif %}</div>
       </div>
         <div>
-          <h3 class="c-post">{{ post.excerpt | strip_html | truncatewords: 35 }}</h3>
+		<a class = "readmore" href={{site.baseurl}}{{post.url}}>
+          <h3 class="c-post c-post-card__meta c-post-card__author">{{ post.excerpt | strip_html | truncatewords: 35 }}</h3>
          
-	          <a class = "readmore" href={{site.baseurl}}{{post.url}}>Read More</a>  
+	          Read More</a>  
         </div>
     </div>
   </div>

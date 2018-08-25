@@ -1398,7 +1398,16 @@ html,body{
     border-bottom:1px solid #000
 }
 
-
+@media (min-width: 64em){
+    .c-post-card--half .c-post-card__image:after{
+        padding-bottom:118%
+    }
+}
+@media (min-width: 64em){
+    .c-post-card--first .c-post-card__image:after{
+        padding-bottom:56.18%
+    }
+}
 
 
 

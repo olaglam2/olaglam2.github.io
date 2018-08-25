@@ -4,6 +4,9 @@ title: New Series On My Garden Studio
 description: I have decided to write a series on my garden studio, why I decided to build it, the gear I selected and how I use it. Here is a quick overview of my plans for this series
 category: personal
 cover: /images/posts/20.jpg
+tags:
+- personal
+- pagination
 ---
 ## 1. Garden Studio
 I'll kick the series off by explaining what motivated me to build a garden studio, what I use it for and how this affected design decisions. I'll cover how I chose a supplier and provide a step-by-step walkthrough of the build from laying the concrete base to the finished building. This may end up being split into two posts if it gets too long: planning/choosing a supplier; build walkthrough.

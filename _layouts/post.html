@@ -19,6 +19,7 @@ layout: default
     <div class='o-grid__col o-grid__col--4-4-s o-grid__col--1-3-m'>
       <div class='c-post-hero__content'>
         <h1 class='c-post-hero__title'>{{ page.title }}</h1>
+          <p id="post-meta">{{ category_content }}</p>
         <time class='c-post-hero__date' datetime='{{ page.date | date_to_string }}'>{{ page.date | date_to_long_string }}</time>
       </div>
     </div>

@@ -18,3 +18,8 @@ plugins:
 
 exclude:
   - Gemfile
+
+collections:
+  my_categories:
+    output: true
+    permalink: /blog/category/:name/

@@ -9,7 +9,7 @@ layout: default
   
    {% for post in site.categories.personal %}
     <li>
-  <a href=''>{{post.title}}</a>
+  <a href='{{ post.url }}'>{{post.title}}</a>
     </li>
    {% endfor %}
   

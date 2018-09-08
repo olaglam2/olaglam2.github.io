@@ -8,9 +8,9 @@ layout: default
 <ul>
   
    {% for personal in site.post %}
-
+    <li>
    <p>I am an example being captured.</p>
-
+    </li>
    {% endfor %}
   
   

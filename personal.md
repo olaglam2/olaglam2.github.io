@@ -1,7 +1,7 @@
 ---
 title: personal
 layout: default
-cover: "/images/posts/17.jpg"
+
 ---
 <h1>personal</h1>
 

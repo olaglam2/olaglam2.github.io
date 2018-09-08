@@ -7,9 +7,9 @@ layout: default
 
 <ul>
   
-   {% for personal in site.category.personal %}
+   {% for post in site.category.personal %}
     <li>
-  <a href=''>{{personal.title}}</a>
+  <a href=''>{{post.title}}</a>
     </li>
    {% endfor %}
   

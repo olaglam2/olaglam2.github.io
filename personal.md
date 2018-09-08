@@ -7,9 +7,9 @@ layout: default
 
 <ul>
   
-   {% for personal in site.post %}
+   {% for personal in site.category.personal %}
     <li>
-   <p>I am an example being captured.</p>
+  <a href=''>{{personal.title}}</a>
     </li>
    {% endfor %}
   

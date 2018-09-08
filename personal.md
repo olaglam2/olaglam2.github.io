@@ -3,7 +3,7 @@ title: personal
 layout: default
 
 ---
-<h1>personalkjjj</h1>
+<h1>personal</h1>
 
 <ul>
   

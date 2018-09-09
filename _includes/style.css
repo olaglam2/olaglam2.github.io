@@ -781,8 +781,8 @@ table tbody+tbody{
     display:flex;
     flex-wrap:wrap;
     margin:0 auto;
-    max-width:800px;
-    float:left;
+    max-width:1200px;
+   
         
 }
 .o-grid:after{

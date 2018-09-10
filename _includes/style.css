@@ -1263,7 +1263,7 @@ html,body{
 }
 .c-post-card__media{
     overflow:hidden;
-    width:70%;
+    width:30%;
    background-color:#F4F6F8;
    padding-right: 16px;
       
@@ -1299,7 +1299,7 @@ html,body{
     padding-bottom:75%
 }
 .c-post-card__content{
-    flex-grow:1
+    flex-grow:1;
     width:70%;
 }
 .c-post-card__tags{

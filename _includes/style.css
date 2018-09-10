@@ -1264,7 +1264,8 @@ html,body{
 .c-post-card__media{
     overflow:hidden;
     width:70%;
-   background-color:#F4F6F8
+   background-color:#F4F6F8;
+   padding-right: 16px;
       
 }
 .c-post-card__image{

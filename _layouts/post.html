@@ -2,13 +2,6 @@
 layout: default
 ---
 
-{% assign category = site.my_categories | where: "slug", post.category %}
-{% assign category = category[0] %}
-{% if category %}
-    {% capture category_content %}<a class="label" href="{{ category.url }}">{{ category.name }}</a>{% endcapture %}
-{% endif %}
-
-
 <div class='c-post-hero'>
   <div class='o-grid _o-grid--full'>
     <div class='o-grid__col o-grid__col--4-4-s o-grid__col--4-4-m o-grid__col--2-3-l'>
@@ -53,6 +46,7 @@ layout: default
           </ul>
           </div>
         </div>
+          {% include share-buttons.html %}
 <hr>
 <div class='o-grid__col o-grid__col--center o-grid__col--4-4-s o-grid__col--1-3-l'>
   <button class='c-btn c-btn--full js-load-disqus' onclick='disqus(); return false;'>Comments</button>

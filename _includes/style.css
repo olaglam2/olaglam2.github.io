@@ -1255,7 +1255,7 @@ html,body{
     position:relative;
     display:flex;
     width:100%;
-    flex-direction:column;
+    flex-direction:row;
     margin-bottom:32px
 }
 .c-post-card-wrap{
@@ -1263,7 +1263,8 @@ html,body{
 }
 .c-post-card__media{
     overflow:hidden;
-    background-color:#F4F6F8
+   " background-color:#F4F6F8"
+    width:30%;
 }
 .c-post-card__image{
     display:block;
@@ -1297,6 +1298,7 @@ html,body{
 }
 .c-post-card__content{
     flex-grow:1
+    width:70%;
 }
 .c-post-card__tags{
     float:left;

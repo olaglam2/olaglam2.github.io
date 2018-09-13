@@ -1258,7 +1258,7 @@ html,body{
     flex-direction:row;
     margin-bottom:32px
 }
-@media (max-width: 39.99em){
+@media (max-width: 64em){
     .c-post-card{
         flex-direction:column;
     }
@@ -1273,7 +1273,7 @@ html,body{
    padding-right: 16px;
       
 }
-@media (min-width: 40em){
+@media (min-width: 64em){
     .c-post-card__media{
         width:30%;
     }

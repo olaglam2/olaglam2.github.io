@@ -1275,7 +1275,7 @@ html,body{
 }
 @media (min-width: 64em){
     .c-post-card__media{
-        width:25%;
+        width:20%;
     }
     }
 .c-post-card__image{
@@ -1314,7 +1314,7 @@ html,body{
 }
 @media (min-width: 64em){
     .c-post-card__content{
-        width:75%;
+        width:80%;
     }
     }
 .c-post-card__tags{

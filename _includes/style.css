@@ -917,10 +917,12 @@ table tbody+tbody{
 }
 .c-logo__link{
     display:block;
-    color:#000;
-    font-family:"Playfair Display",serif;
-    font-size:24px;
-    transition:color 500ms ease-in-out
+    color:#b6974f;
+    font-family:"Merriweather",serif;
+    font-size:42px;
+    font-weight: 700;
+    transition:color 500ms ease-in-out;
+        font-style: italic;
 }
 @media (min-width: 40em){
     .c-logo__link{
@@ -970,6 +972,7 @@ table tbody+tbody{
     font-size:14px;
     letter-spacing:2px;
     text-transform:uppercase
+    color:#b6974f;    
 }
 @media (min-width: 40em){
     .c-nav__item{

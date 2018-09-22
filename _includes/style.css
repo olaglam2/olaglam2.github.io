@@ -920,6 +920,7 @@ table tbody+tbody{
     color:#b6974f;
     font-family:"Merriweather",serif;
     font-size:42px;
+    text-transform: uppercase;
     font-weight: 700;
     transition:color 500ms ease-in-out;
         font-style: italic;
@@ -971,7 +972,7 @@ table tbody+tbody{
 .c-nav__item{
     font-size:14px;
     letter-spacing:2px;
-    text-transform:uppercase
+    text-transform:uppercase;
     color:#b6974f;    
 }
 @media (min-width: 40em){

@@ -1270,7 +1270,7 @@ html,body{
     flex-direction:column;
     margin-bottom:32px
 }
-@media (min-width: 64em){
+@media (min-width: 40em){
     .c-post-card{
         flex-direction:row;
     }

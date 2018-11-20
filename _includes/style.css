@@ -897,7 +897,8 @@ table tbody+tbody{
     list-style:none
 }
 .c-header{
-    padding:32px 0
+    padding:32px 0;
+    background-color: rgba(121,113,88,0.97);
 }
 @media (min-width: 40em){
     .c-header{

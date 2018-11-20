@@ -900,10 +900,7 @@ table tbody+tbody{
     padding:32px 0;
     
 }
-.o-header{
-    background-color: rgba(121,113,88,0.97);
 
-}
 @media (min-width: 40em){
     .c-header{
         padding:48px 0

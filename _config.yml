@@ -15,6 +15,7 @@ paginate: 8
 
 plugins:
   - jekyll-paginate
+  - jekyll-seo-tag
 
 exclude:
   - Gemfile

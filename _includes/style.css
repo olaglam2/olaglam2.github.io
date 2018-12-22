@@ -754,7 +754,7 @@ input[type='text']:focus,input[type='password']:focus,input[type='date']:focus,i
 table{
     width:100%;
     max-width:100%;
-        display:block;
+    display:block;
     width:100%;
     overflow-x:auto
 }
@@ -770,8 +770,10 @@ table thead th{
     text-transform:uppercase;
     font-size:14px;
     vertical-align:bottom;
-    border-bottom:2px solid #ECF0F1
-
+    border-bottom:2px solid #ECF0F1;
+    display:block;
+    width:100%;
+    overflow-x:auto
 }
 table tbody+tbody{
     border-top:2px solid #ECF0F1

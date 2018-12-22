@@ -6,7 +6,7 @@ category: personal
 cover: /images/posts/20.jpg
 tags: personal pagination
 ---
-## 1. Garden Studio
+# 1. Garden Studio
 I'll kick the series off by explaining what motivated me to build a garden studio, what I use it for and how this affected design decisions. I'll cover how I chose a supplier and provide a step-by-step walkthrough of the build from laying the concrete base to the finished building. This may end up being split into two posts if it gets too long: planning/choosing a supplier; build walkthrough.
 
 
@@ -34,7 +34,12 @@ Studio monitors and headphones are another critical choice. These determine what
 Not the most glamorous subject, but important none-the-less. I'll go through my cabling choices.
 
 
-## 8. Future Upgrades
+### 8. Future Upgrades
 I'll finish off the series with some thoughts on areas where I could improve the studio in future. I have no idea whether I will ever have the budget to implement any of these, but it's a pleasant way to pass some time!
 
 
+| Priority apples | Second priority | Third priority |
+|-------|--------|---------|
+| ambrosia | gala | red delicious |
+| pink lady | jazz | macintosh |
+| honeycrisp | granny smith | fuji |

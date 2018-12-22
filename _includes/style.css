@@ -754,6 +754,9 @@ input[type='text']:focus,input[type='password']:focus,input[type='date']:focus,i
 table{
     width:100%;
     max-width:100%;
+        display:block;
+    width:100%;
+    overflow-x:auto
 }
 table th,table td{
     padding:16px;

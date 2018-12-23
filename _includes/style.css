@@ -769,10 +769,7 @@ table th,table td{
     text-align:left;
     vertical-align:top;
     border-top:1px solid #ECF0F1;
-    font-weight:400;
-         display:block;
-    width:100%;
-    overflow-x:auto   
+    font-weight:400 
 }
 table thead th{
     font-weight:500;

@@ -86,6 +86,10 @@ audio:not([controls]){
     display:none;
     height:0
 }
+.ol-cent{
+    margin: auto;
+
+}
 
 .image-wrapper {
     text-align: center;

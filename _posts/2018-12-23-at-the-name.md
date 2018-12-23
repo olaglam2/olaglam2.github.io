@@ -61,10 +61,10 @@ I'll finish off the series with some thoughts on areas where I could improve the
 <div >
 	<table class="fixed">
 			<thead>
-				<tr style="text-align: center;">
-					<th>PRODUCT</th>
-					<th>DETAILS</th>
-					<th>OUR RATING</th>
+				<tr >
+					<th style="text-align: center;">PRODUCT</th>
+					<th style="text-align: center;">DETAILS</th>
+					<th style="text-align: center;">OUR RATING</th>
 				</tr>
 			</thead>
 			<tbody>

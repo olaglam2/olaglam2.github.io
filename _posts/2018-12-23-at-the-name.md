@@ -54,7 +54,7 @@ I'll finish off the series with some thoughts on areas where I could improve the
 |           |          |        |
 |-------|--------|---------|
 | ![My helpful screenshot](images/posts/16.jpg){:class="img-review"} <h4>Therapeutic Support Mattress</h4>| Studio monitors and headphones are another critical choice. These determine what you hear and will massively impact the success of your mixes - both in terms of overall balance and how well they translate to other listening devices and environments. I'll explain what monitors I bought and how I chose them.| macintosh |
-|![My helpful screenshot](images/posts/16.jpg){:class="img-review"} | NAME | fuji |
+|![My helpful screenshot](images/posts/16.jpg){:class="img-review"} |  <ul><li>item1</li><li>item2</li></ul> | fuji |
 
 
 

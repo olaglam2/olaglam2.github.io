@@ -17,6 +17,11 @@ An explanation of the audio signal flow from voice/instrument to speakers/headph
 ## 3. Microphones
 I'll cover all the different microphones I own, why I chose them and what I use them for. I'll also identify where there are gaps in my collection and how I might fill them in the future.
 
+![My helpful screenshot](images/posts/16.jpg)
+{% include image.html
+            img="images/posts/16.jpg"
+            title="title for image"
+            caption="caption for image" %}
 
 ## 4. Audio Interface
 Like a mixing console in a major pro studio, the audio interface is the heart of any project studio, so it's important to make the right choice. I'll explain which interface I bought and why, describe its features and how I feel about my decision.
@@ -45,8 +50,3 @@ I'll finish off the series with some thoughts on areas where I could improve the
 |hang | ![My helpful screenshot](images/posts/16.jpg){:class="img-review"} | fuji |
 
 
-![My helpful screenshot](images/posts/16.jpg)
-{% include image.html
-            img="images/posts/16.jpg"
-            title="title for image"
-            caption="caption for image" %}

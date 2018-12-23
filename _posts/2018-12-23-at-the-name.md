@@ -73,8 +73,8 @@ I'll finish off the series with some thoughts on areas where I could improve the
 			<tbody>
 				<tr>
 					<td>	
-						<ol>
-						<li> <img src="{{ "/images/post/16.jpg" | absolute_url }}" alt="" /></li>
+						<ol class='ol-cent'>
+						<li> <span class= 'img-review'><img src="{{ "/images/posts/16.jpg" | absolute_url }}" alt="" /></span></li>
 						<li><H4>Studio monitors and headphones are another</H4></li>
 						<li><H6>Studio monitors and headphones are another</H6></li>
 						<li><button class='c-btn c-btn--active'>CLICK FOR PRICE</button></li>

@@ -43,5 +43,7 @@ I'll finish off the series with some thoughts on areas where I could improve the
 | ambrosia | gala | red delicious |
 | pink lady | jazz | macintosh |
 | honeycrisp | granny smith | fuji |
-
-{% include image name="jessienuti.jpeg" caption="Sharing my blog on LinkedIn" %}
+{% include image.html
+            img="images/posts/16.jpg"
+            title="title for image"
+            caption="caption for image" %}

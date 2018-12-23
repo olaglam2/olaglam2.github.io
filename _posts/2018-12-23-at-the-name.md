@@ -44,7 +44,7 @@ I'll finish off the series with some thoughts on areas where I could improve the
 | pink lady | jazz | macintosh |
 | honeycrisp  | ![My helpful screenshot](images/posts/16.jpg){:class="img"} | fuji |
 | honeycrisp  |     | fuji |
-
+| pink lady | jazz | macintosh |
 
 ![My helpful screenshot](images/posts/16.jpg)
 {% include image.html

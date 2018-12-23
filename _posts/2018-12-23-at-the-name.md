@@ -87,9 +87,15 @@ I'll finish off the series with some thoughts on areas where I could improve the
 					</td>
 					<td>	
 						<ul style="list-style: none;">
-						<li tyle="text-align: center;"> <H4> Our #2 Rated </H4></li>
-						<li> Studio monitors and headphones are another</li>
-						<li tyle="text-align: center;"> 4 out of 5</li>
+						<li style="text-align: center;"> <H4> Our #2 Rated </H4></li>
+						<li > 
+							<span class="fa fa-star checked"></span>
+						      	<span class="fa fa-star checked"></span>
+							<span class="fa fa-star checked"></span>
+							<span class="fa fa-star checked"></span>
+							<span class="fa fa-star"></span>
+						</li>
+						<li style="text-align: center;"> 4 out of 5</li>
 						</ul>
 					</td>
 				</tr>

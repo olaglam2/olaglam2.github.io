@@ -46,6 +46,7 @@ I'll finish off the series with some thoughts on areas where I could improve the
 | PRODUCT | DETAILS | OUR RATING |
 |-------|--------|---------|
 | ![My helpful screenshot](images/posts/16.jpg){:class="img-review"} | I'll finish off the series with some thoughts on areas where I could improve the studio in future. I have no idea whether I will ever have the budget to implement any of these, but it's a pleasant way to pass some time! | <button class='c-btn c-btn--active'>Button</button> |
+
 ##Drive Medical
 ####Therapeutic Support Mattress
 

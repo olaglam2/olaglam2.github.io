@@ -45,10 +45,9 @@ I'll finish off the series with some thoughts on areas where I could improve the
 
 | PRODUCT | DETAILS | OUR RATING |
 |-------|--------|---------|
-|<h2>Drive Medical</h2>  |<h4>Therapeutic Support Mattress</h4>          |        |
-| ![My helpful screenshot](images/posts/16.jpg){:class="img-review"} |<ul><li> Studio monitors and headphones are another</li> <li>Studio monitors and headphones are another </li><li> Studio monitors and headphones are another</li><li> Studio monitors and headphones are another</li></ul> | <button class='c-btn c-btn--active'>Button</button> |
+| ![My helpful screenshot](images/posts/16.jpg){:class="img-review"} | Studio monitors and headphones are another <br/> Studio monitors and headphones are another <br/> Studio monitors and headphones are another <br/><h1>.</h1> Studio monitors and headphones are another <br/> | <button class='c-btn c-btn--active'>Button</button> |
 
-<h2>Drive Medical</h2> <h4>Therapeutic Support Mattress</h4>
+Drive Medical <br/> Therapeutic Support Mattress
 
 
 |           |          |        |

@@ -47,7 +47,6 @@ I'll finish off the series with some thoughts on areas where I could improve the
 |-------|--------|---------|
 | ![My helpful screenshot](images/posts/16.jpg){:class="img-review"} | Studio monitors and headphones are another <br/> Studio monitors and headphones are another <br/> Studio monitors and headphones are another <br/><h1>.</h1> Studio monitors and headphones are another <br/> | <button class='c-btn c-btn--active'>Button</button> |
 
-Drive Medical <br/> Therapeutic Support Mattress
 
 
 |           |          |        |
@@ -59,8 +58,8 @@ Drive Medical <br/> Therapeutic Support Mattress
 <button class='c-btn c-btn--active'>Button</button>
 
 
-<div class="table-wrapper">
-		<table>
+<div >
+		<table class="class="fixed">
 			<thead>
 				<tr>
 					<th>PRODUCT</th>

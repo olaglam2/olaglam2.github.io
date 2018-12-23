@@ -53,7 +53,7 @@ I'll finish off the series with some thoughts on areas where I could improve the
 
 |           |          |        |
 |-------|--------|---------|
-| ![My helpful screenshot](images/posts/16.jpg){:class="img-review"}  Studio monitors and headphones are another critical choice. These determine what you hear and will massively impact the success of your mixes - both in terms of overall balance and how well they translate to other listening devices and environments. I'll explain what monitors I bought and how I chose them.  | macintosh |
+| ![My helpful screenshot](images/posts/16.jpg){:class="img-review"}  Studio monitors and headphones are another critical choice. These determine what you hear and will massively impact the success of your mixes - both in terms of overall balance and how well they translate to other listening devices and environments. I'll explain what monitors I bought and how I chose them.| macintosh |
 |![My helpful screenshot](images/posts/16.jpg){:class="img-review"} | NAME | fuji |
 
 

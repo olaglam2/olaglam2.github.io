@@ -90,6 +90,13 @@ audio:not([controls]){
 table.fixed { table-layout:fixed; }
 table.fixed td { overflow: hidden; }
 
+.fa {
+  font-size: 25px;
+}
+
+.checked {
+  color: orange;
+}
 .li-review{
     margin: auto;
 

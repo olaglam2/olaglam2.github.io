@@ -87,12 +87,12 @@ audio:not([controls]){
     height:0
 }
 .ol-cent{
-    margin: auto;
 
+    list-style: none;
 }
 
-.img-review{
-    list-style: none;
+.li-review{
+    margin: auto;
 
 }
 .image-wrapper {

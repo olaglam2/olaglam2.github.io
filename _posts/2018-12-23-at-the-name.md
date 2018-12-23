@@ -70,7 +70,7 @@ I'll finish off the series with some thoughts on areas where I could improve the
 			<tbody>
 				<tr>
 					<td>	
-						<ol class='ol-cent'>
+						<ol style="list-style: none;">
 						<li> <span class= 'img-review'><img src="{{ "/images/posts/16.jpg" | absolute_url }}" alt="" /></span></li>
 						<li><H4>Studio monitors and headphones are another</H4></li>
 						<li><H6>Studio monitors and headphones are another</H6></li>
@@ -86,7 +86,7 @@ I'll finish off the series with some thoughts on areas where I could improve the
 						</ul>
 					</td>
 					<td>	
-						<ul>
+						<ul style="list-style: none;">
 						<li> <H4> Our #2 Rated </H4></li>
 						<li> Studio monitors and headphones are another</li>
 						<li> Studio monitors and headphones are another</li>

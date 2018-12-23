@@ -73,8 +73,8 @@ I'll finish off the series with some thoughts on areas where I could improve the
 			<tbody>
 				<tr>
 					<td>Item 1</td>
-					<td><
-						ul>
+					<td>
+						<ul>
 						<li> Studio monitors and headphones are another</li>
 						<li>Studio monitors and headphones are another </li>
 						<li> Studio monitors and headphones are another</li>

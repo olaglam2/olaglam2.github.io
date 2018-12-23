@@ -53,23 +53,8 @@ I'll finish off the series with some thoughts on areas where I could improve the
 
 |           |          |        |
 |-------|--------|---------|
-| ![My helpful screenshot](images/posts/16.jpg){:class="img-review"} <h4>Therapeutic Support Mattress</h4>| Studio monitors and headphones are another critical choice. These determine what you hear and will massively impact the success of your mixes - both in terms of overall balance and how well they translate to other listening devices and environments. I'll explain what monitors I bought and how I chose them.| macintosh |
+| ![My helpful screenshot](images/posts/16.jpg){:class="img-review"} <br/> Therapeutic Support Mattress| Studio monitors and headphones are another critical choice.<br/> These determine what you hear and will massively impact the success of your mixes <br/> both in terms of overall balance and how well <br/>they translate to other listening devices and environments. <br/>I'll explain what monitors I bought and how I chose them.| macintosh |
 |![My helpful screenshot](images/posts/16.jpg){:class="img-review"} |  item1<br/>item2 | fuji |
-
-
-
-   -------------------------------------------------------------
-     Centered   Default           Right Left
-      Header    Aligned         Aligned Aligned
-    ----------- ------- --------------- -------------------------
-       First    row                12.0 Example of a row that
-                                        spans multiple lines.
-
-   Second    row                 5.0 Here's another one. Note
-                                        the blank line between
-                                        rows.
-   -------------------------------------------------------------
-
 
 
 <button class='c-btn c-btn--active'>Button</button>

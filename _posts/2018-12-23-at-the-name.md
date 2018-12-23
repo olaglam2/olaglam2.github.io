@@ -73,7 +73,14 @@ I'll finish off the series with some thoughts on areas where I could improve the
 			<tbody>
 				<tr>
 					<td>Item 1</td>
-					<td>This item costs money.</td>
+					<td><
+						ul>
+						<li> Studio monitors and headphones are another</li>
+						<li>Studio monitors and headphones are another </li>
+						<li> Studio monitors and headphones are another</li>
+						<li> Studio monitors and headphones are another</li>
+						</ul>
+					</td>
 					<td>29.99</td>
 				</tr>
 				<tr>

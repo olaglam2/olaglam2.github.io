@@ -61,7 +61,7 @@ I'll finish off the series with some thoughts on areas where I could improve the
 <div >
 	<table class="fixed">
 			<thead>
-				<tr>
+				<tr style="text-align: center;">
 					<th>PRODUCT</th>
 					<th>DETAILS</th>
 					<th>OUR RATING</th>
@@ -88,7 +88,7 @@ I'll finish off the series with some thoughts on areas where I could improve the
 					<td>	
 						<ul style="list-style: none;">
 						<li style="text-align: center;"> <H4> Our #2 Rated </H4></li>
-						<li > 
+						<li style="text-align: center;"> 
 							<span class="fa fa-star checked"></span>
 						      	<span class="fa fa-star checked"></span>
 							<span class="fa fa-star checked"></span>

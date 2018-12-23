@@ -41,9 +41,8 @@ I'll finish off the series with some thoughts on areas where I could improve the
 | Priority apples | Second priority | Third priority |
 |-------|--------|---------|
 | ambrosia | gala | red delicious |
-| pink lady | jazz | macintosh |
-| hang 
-hang | ![My helpful screenshot](images/posts/16.jpg){:class="img-review"} | fuji |
+| pink      lady | jazz | macintosh |
+|hang | ![My helpful screenshot](images/posts/16.jpg){:class="img-review"} | fuji |
 
 
 ![My helpful screenshot](images/posts/16.jpg)

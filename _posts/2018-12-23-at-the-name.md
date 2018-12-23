@@ -71,11 +71,11 @@ I'll finish off the series with some thoughts on areas where I could improve the
 				<tr>
 					<td>	
 						<ol style="list-style: none;">
-						<span style="text-align: center;"><li> <img src="{{ "/images/posts/16.jpg" | absolute_url }}" alt="" /></li>
-						<li><H4>Studio monitors and headphones are another</H4></li>
-						<li><H6>Studio monitors and headphones are another</H6></li>
+						<li> <img src="{{ "/images/posts/16.jpg" | absolute_url }}" alt="" /></li>
+						<li<span style="text-align: center;">><H4>Studio monitors and headphones are another</H4></li>
+						<li<span style="text-align: center;">><H6>Studio monitors and headphones are another</H6></li>
 						<li><button class='c-btn c-btn--active'>CLICK FOR PRICE</button></li>
-						</span></ol>
+						</ol>
 					</td>
 					<td>
 						<ul>

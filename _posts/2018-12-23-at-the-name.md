@@ -60,3 +60,48 @@ I'll finish off the series with some thoughts on areas where I could improve the
 
 <button class='c-btn c-btn--active'>Button</button>
 
+
+<div class="table-wrapper">
+		<table>
+			<thead>
+				<tr>
+					<th>PRODUCT</th>
+					<th>DETAILS</th>
+					<th>OUR RATING</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>Item 1</td>
+					<td>This item costs money.</td>
+					<td>29.99</td>
+				</tr>
+				<tr>
+					<td>Item 2</td>
+					<td>And this one is not free either.</td>
+					<td>19.99</td>
+				</tr>
+				<tr>
+					<td>Item 3</td>
+					<td>Here we have another item.</td>
+					<td>29.99</td>
+				</tr>
+				<tr>
+					<td>Item 4</td>
+					<td>More items and stuff.</td>
+					<td>19.99</td>
+				</tr>
+				<tr>
+					<td>Item 5</td>
+					<td>The last item and stuff.</td>
+					<td>29.99</td>
+				</tr>
+			</tbody>
+			<tfoot>
+				<tr>
+					<td colspan="2"></td>
+					<td>100.00</td>
+				</tr>
+			</tfoot>
+		</table>
+	</div>

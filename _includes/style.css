@@ -86,10 +86,7 @@ audio:not([controls]){
     display:none;
     height:0
 }
-.ol-cent{
 
-    list-style: none;
-}
 table.fixed { table-layout:fixed; }
 table.fixed td { overflow: hidden; }
 

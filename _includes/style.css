@@ -91,6 +91,10 @@ audio:not([controls]){
 
 }
 
+.img-review{
+    list-style: none;
+
+}
 .image-wrapper {
     text-align: center;
 

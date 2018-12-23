@@ -42,10 +42,7 @@ I'll finish off the series with some thoughts on areas where I could improve the
 |-------|--------|---------|
 | ambrosia | gala | red delicious |
 | pink lady | jazz | macintosh |
-| honeycrisp | {% include image.html
-            img="images/posts/16.jpg"
-            title="title for image"
-            caption="caption for image" %} | fuji |
+| honeycrisp | {% include image.html img="images/posts/16.jpg" title="title for image" caption="caption for image" %} | fuji |
 
 
 {% include image.html

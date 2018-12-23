@@ -90,6 +90,8 @@ audio:not([controls]){
 
     list-style: none;
 }
+table.fixed { table-layout:fixed; }
+table.fixed td { overflow: hidden; }
 
 .li-review{
     margin: auto;

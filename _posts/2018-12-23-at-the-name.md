@@ -72,7 +72,14 @@ I'll finish off the series with some thoughts on areas where I could improve the
 			</thead>
 			<tbody>
 				<tr>
-					<td>Item 1</td>
+					<td>	
+						<ol>
+						<li> <img src="{{ "/images/post/16.jpg" | absolute_url }}" alt="" /></li>
+						<li><H4>Studio monitors and headphones are another</H4></li>
+						<li><H6>Studio monitors and headphones are another</H6></li>
+						<li><button class='c-btn c-btn--active'>CLICK FOR PRICE</button></li>
+						</ol>
+					</td>
 					<td>
 						<ul>
 						<li> Studio monitors and headphones are another</li>
@@ -81,7 +88,13 @@ I'll finish off the series with some thoughts on areas where I could improve the
 						<li> Studio monitors and headphones are another</li>
 						</ul>
 					</td>
-					<td>29.99</td>
+					<td>	
+						<ul>
+						<li> <H4> Our #2 Rated </H4></li>
+						<li> Studio monitors and headphones are another</li>
+						<li> Studio monitors and headphones are another</li>
+						</ul>
+					</td>
 				</tr>
 				<tr>
 					<td>Item 2</td>

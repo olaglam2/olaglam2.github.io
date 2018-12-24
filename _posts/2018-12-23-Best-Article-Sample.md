@@ -256,7 +256,7 @@ What we particularly like about this knee brace is the knitted cotton fabric is 
 	    
 | Pros | Cons |
 |-------|--------|
-| < class="fa fa-check"></i>  Knitted cotton fabric is more skin friendly than neoprene. | <i class="fa fa-remove"></i> Expensive. |
+| <i class="fa fa-check"></i>  Knitted cotton fabric is more skin friendly than neoprene. | <i class="fa fa-remove"></i> Expensive. |
 | <i class="fa fa-check"></i>  Six sizes available for a custom fit. | <i class="fa fa-remove"></i> Only fits one leg with sizes available for right or left. |
 | <i class="fa fa-check"></i>  Stabilizes knee cap without limiting movement with two supportive pads. | <i class="fa fa-remove"></i> If you have larger thighs it can be too tight. |
 | Massaging effect for pain relief. | <i class="fa fa-remove"></i> Too restrictive for running and may shorten your stride. |

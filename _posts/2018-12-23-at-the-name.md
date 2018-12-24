@@ -57,10 +57,10 @@ I'll finish off the series with some thoughts on areas where I could improve the
 					<th style="text-align: center;">OUR RATING</th>
 				</tr>
 			</thead>
-			<tbody>
+		        <tbody>
 				<tr>
 					<td class="tab-hid">
-						<h4> Our #1 Rated</h4>
+						<h4 style="text-align: center;"> Our #1 Rated</h4>
 					</td>
 					<td width="32%">	
 						<ol style="list-style: none;">
@@ -96,8 +96,8 @@ I'll finish off the series with some thoughts on areas where I could improve the
 					<td>Item 2</td>
 					<td>And this one is not free either.</td>
 					<td>19.99</td>
-				
-			</tbody>
+				</tr>
+		  </tbody>
 			<tfoot>
 				<tr>
 					<td colspan="2"></td>

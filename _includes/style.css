@@ -101,7 +101,13 @@ table.fixed td { overflow: hidden; }
 .fa {
   font-size: 25px;
 }
+.fa-check {
+  color: green;
+}
 
+.fa-remove {
+  color: red;
+}
 .checked {
   color: orange;
 }

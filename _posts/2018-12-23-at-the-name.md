@@ -77,7 +77,7 @@ I'll finish off the series with some thoughts on areas where I could improve the
 						<li><button class='c-btn c-btn--active'>CLICK FOR PRICE</button></li>
 						</ol>
 					</td>
-					<td width="40%">
+					<td width="35%">
 						<ul>
 						<li> Studio monitors and headphones are another</li>
 						<li>Studio monitors and headphones are another </li>
@@ -85,7 +85,7 @@ I'll finish off the series with some thoughts on areas where I could improve the
 						<li> Studio monitors and headphones are another</li>
 						</ul>
 					</td>
-					<td width="30%">	
+					<td width="35%">	
 						<ul style="list-style: none;">
 						<li style="text-align: center;"> <H4> Our #2 Rated </H4></li>
 						<li style="text-align: center;"> 

@@ -780,10 +780,10 @@ table{
     line-height: 20px;
 }
 @media (max-width: 63.99em){
-    .table-resp{
+    table th,table td{
            display:block;
             width:100%;
-            overflow-x:auto;
+            overflow-x:hidden;
     }
 }
 
@@ -794,9 +794,7 @@ table th,table td{
     border-top:1px solid #ECF0F1;
     font-weight:400; 
     font-size: 14px; 
-    display:block;
-    width:100%;
-    overflow-x:auto;
+
 }
 table thead th{
     font-weight:500;

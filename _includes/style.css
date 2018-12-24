@@ -777,10 +777,13 @@ input[type='text']:focus,input[type='password']:focus,input[type='date']:focus,i
 table{
     width:100%;
     max-width:100%;
-    line-height: 32px;
+    line-height: 20px;
+               display:block;
+            width:100%;
+            overflow-x:auto;
 }
 @media (max-width: 63.99em){
-    table{
+    .table-resp{
            display:block;
             width:100%;
             overflow-x:auto;

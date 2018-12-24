@@ -199,18 +199,66 @@ When combined with other knee rehabilitation treatments, a knee support brace wi
 		</table>
 	</div>
 
-## 2. Studio Signal Flow
-An explanation of the audio signal flow from voice/instrument to speakers/headphones. This is a generic flow that could be applied to any studio, but I will describe it in terms of my own set up.
+##3 What Is Patellofemoral Pain Syndrome?
+Here is our review of the five top throwing knives we’ve found.
+
+What Is Patellofemoral Pain Syndrome?
+
+Patellofemoral syndrome is the condition that describes pain in the front of your knee and around the kneecap, known as the patella. When the patella has improper tracking in the femoral groove, it’ll cause a sharp pain or a dull ache around or underneath the kneecap. This often gets worse with movement around the knee area when going about daily activities or bending the knee while weight bearing.
+
+Although it affects millions of us, patellofemoral pain syndrome is more frequent in athletic individuals like runners, hikers or cyclists. A survey found that 25 percent of all knee injuries seen in a sports medicine clinic were related to patellofemoral pain. Overuse of the knee joint and trauma like falling on your kneecaps are common causes.
+
+Poor tracking of your patella in the groove at the end of your femur has been linked with patellofemoral pain syndrome too. When you bend your knee, sometimes the kneecap will be pushed out to one side caused by muscular imbalances or weaknesses. While symptoms of patellofemoral syndrome can be extremely painful, the condition can usually be treated in your own home.
+
+## Patellofemoral Pain Syndrome Treatment
+Once diagnosed, a doctor will recommend the best course of action for treating your patellofemoral pain. This can include orthotics which take the stress off your lower leg by stabilizing your foot and ankle.
+
+Non-steroidal anti-inflammatory drugs which reduce the swelling and relieve the pain are another option. Over-the-counter drugs like ibuprofen and acetaminophen will help with healing too. Always consult your doctor before taking any new medications.
+
+####Exercise to Treat and Prevent Patellofemoral Pain Syndrome
+
+Gentle exercise and stretches will improve your strength and mobility without risking further damage to the knee. By strengthening the muscles attached to your knee, you’ll reduce the patellofemoral pain. In the following YouTube video, a physiotherapist details some exercises and stretches that’ll get your patella back on track.
 
 
-## 3. Microphones
-I'll cover all the different microphones I own, why I chose them and what I use them for. I'll also identify where there are gaps in my collection and how I might fill them in the future.
+
+
+####Rest and Compression
+
+As patellofemoral pain syndrome is often caused by overuse or overactivity, resting the affected area can help treat the condition. The RICE method (rest, ice, compression and elevation) will relieve the pain and help reduce any swelling. Taping or a bandage may be used for compression but the effects will decrease over time.
+
+####Patellar Braces
+
+The best brace for patellofemoral pain will apply an external force that counteracts improper patella tracking. Studies have shown that patellar braces significantly alter the patellar tracking. One study found using a knee brace alters the position of the patella in the femoral groove of patients with patellofemoral pain syndrome. Basically it puts your knee back in the groove.
+
+A knee support brace will stop the patella from deviating too far laterally, but the patella can move in other planes too. Using a knee brace with therapeutic exercises will help ease that pain more effectively.
+
+##The Best Brace for Patellofemoral Pain Syndrome
+
+With so many types of knee supports available, it can be difficult to know which is the best brace for patellofemoral pain syndrome. It’s important to choose the correct brace to address your type of knee pain.
+
+Patellar tendinitis is a similar condition but presents itself on the front of your shin bone and treatment normally requires a patella strap. This creates a false insertion point on your tendons which takes pressure from the sore and inflamed area of pain.
+
+Knee braces for patellofemoral pain are usually a sleeve-style of brace that’ll control or restrict the movement of your knee cap. An open patella-design will reduce the stress caused by movement on the kneecap, with many braces featuring a reinforced patella opening. This can take the form of a gel pad or buttress which assists with the medial tracking of the patella and relieve the pressure or stress on your kneecap.
+
+We’ve looked at many of the top-selling braces to bring you, in our opinion, the best five options for the best brace for patellofemoral pain syndrome.
+
+ ###Bauerfeind GenuTrain P3 Knee Support 
+ 
+ The GenuTrain P3 knee brace has been designed to relieve pain from the misalignment of the knee cap with P3 standing for permanent patella protection. Using a corrective strap, an integrated ring-shaped pad holds the kneecap securely and prevents drifting. This knitted brace/sleeve can be used to treat and prevent patellofemoral pain syndrome, chondromalacia, dislocation of the knee or other patella-related problems.
+
+What we particularly like about this knee brace is the knitted cotton fabric is both breathable and moisture wicking yet offers a medical-grade compression. Along with a wide range of sizing options that go beyond small, medium or large, this sleeve offers an all-day comfortable fit that won’t slip or bunch up. An incorporated viscoelastic Omega pad surrounds your kneecap to relieve pain and provide a massaging pressure.
 
 ![My helpful screenshot](images/posts/16.jpg)
 {% include image.html
             img="images/posts/16.jpg"
             title="title for image"
             caption="caption for image" %}
+	    
+| Pros | Cons |
+|-------|--------|
+| ambrosia | gala |
+| pink lady | jazz |
+| honeycrisp | granny smith |
 
 ## 4. Audio Interface
 Like a mixing console in a major pro studio, the audio interface is the heart of any project studio, so it's important to make the right choice. I'll explain which interface I bought and why, describe its features and how I feel about my decision.

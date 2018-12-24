@@ -48,16 +48,6 @@ I'll finish off the series with some thoughts on areas where I could improve the
 | ![My helpful screenshot](images/posts/16.jpg){:class="img-review"} | Studio monitors and headphones are another <br/> Studio monitors and headphones are another <br/> Studio monitors and headphones are another <br/><h1>.</h1> Studio monitors and headphones are another <br/> | <button class='c-btn c-btn--active'>Button</button> |
 
 
-
-|           |          |        |
-|-------|--------|---------|
-| ![My helpful screenshot](images/posts/16.jpg){:class="img-review"} <br/> ##Therapeutic ###Support Mattress| Studio monitors and headphones are another critical choice.<br/> These determine what you hear and will massively impact the success of your mixes <br/> both in terms of overall balance and how well <br/>they translate to other listening devices and environments. <br/>I'll explain what monitors I bought and how I chose them.| macintosh |
-|![My helpful screenshot](images/posts/16.jpg){:class="img-review"} |  item1<br/>item2 | fuji |
-
-
-<button class='c-btn c-btn--active'>Button</button>
-
-
 <div >
 	<table >
 			<thead>
@@ -69,7 +59,10 @@ I'll finish off the series with some thoughts on areas where I could improve the
 			</thead>
 			<tbody>
 				<tr>
-					<td width="30%">	
+					<td class="tab-hid">
+						<h4> Our #1 Rated</h4>
+					</td>
+					<td width="32%">	
 						<ol style="list-style: none;">
 						<li> <img src="{{ "/images/posts/16.jpg" | absolute_url }}" alt="" /></li>
 						<li style="text-align: center;"><H4>Studio monitors and headphones are another</H4></li>
@@ -77,7 +70,7 @@ I'll finish off the series with some thoughts on areas where I could improve the
 						<li><button class='c-btn c-btn--active'>CLICK FOR PRICE</button></li>
 						</ol>
 					</td>
-					<td width="37%">
+					<td width="35%">
 						<ul>
 						<li> Studio monitors and headphones are another</li>
 						<li>Studio monitors and headphones are another </li>
@@ -87,7 +80,7 @@ I'll finish off the series with some thoughts on areas where I could improve the
 					</td>
 					<td width="33%">	
 						<ul style="list-style: none;">
-						<li style="text-align: center;"> <H4> Our #2 Rated </H4></li>
+						<li style="text-align: center;"> <H4> Our #1 Rated </H4></li>
 						<li style="text-align: center;"> 
 							<span class="fa fa-star checked"></span>
 						      	<span class="fa fa-star checked"></span>
@@ -103,22 +96,7 @@ I'll finish off the series with some thoughts on areas where I could improve the
 					<td>Item 2</td>
 					<td>And this one is not free either.</td>
 					<td>19.99</td>
-				</tr>
-				<tr>
-					<td>Item 3</td>
-					<td>Here we have another item.</td>
-					<td>29.99</td>
-				</tr>
-				<tr>
-					<td>Item 4</td>
-					<td>More items and stuff.</td>
-					<td>19.99</td>
-				</tr>
-				<tr>
-					<td>Item 5</td>
-					<td>The last item and stuff.</td>
-					<td>29.99</td>
-				</tr>
+				
 			</tbody>
 			<tfoot>
 				<tr>

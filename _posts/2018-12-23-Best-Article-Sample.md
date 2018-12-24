@@ -243,17 +243,12 @@ Knee braces for patellofemoral pain are usually a sleeve-style of brace that’l
 We’ve looked at many of the top-selling braces to bring you, in our opinion, the best five options for the best brace for patellofemoral pain syndrome.
 
  ### Bauerfeind GenuTrain P3 Knee Support 
- 
+ ![My helpful screenshot](images/posts/16.jpg)
+
  The GenuTrain P3 knee brace has been designed to relieve pain from the misalignment of the knee cap with P3 standing for permanent patella protection. Using a corrective strap, an integrated ring-shaped pad holds the kneecap securely and prevents drifting. This knitted brace/sleeve can be used to treat and prevent patellofemoral pain syndrome, chondromalacia, dislocation of the knee or other patella-related problems.
 
 What we particularly like about this knee brace is the knitted cotton fabric is both breathable and moisture wicking yet offers a medical-grade compression. Along with a wide range of sizing options that go beyond small, medium or large, this sleeve offers an all-day comfortable fit that won’t slip or bunch up. An incorporated viscoelastic Omega pad surrounds your kneecap to relieve pain and provide a massaging pressure.
 
-![My helpful screenshot](images/posts/16.jpg)
-{% include image.html
-            img="images/posts/16.jpg"
-            title="title for image"
-            caption="caption for image" %}
-	    
 | Pros | Cons |
 |-------|--------|
 | <i class="fa fa-check"></i>  Knitted cotton fabric is more skin friendly than neoprene. | <i class="fa fa-remove"></i> Expensive. |
@@ -262,10 +257,85 @@ What we particularly like about this knee brace is the knitted cotton fabric is 
 | Massaging effect for pain relief. | <i class="fa fa-remove"></i> Too restrictive for running and may shorten your stride. |
 | Machine washable. |  |
 
+###  Neo-G Hinged Open-Patella Knee Brace 
+ ![My helpful screenshot](images/posts/16.jpg)
+ If you’re looking for some high-grade support and stabilization, this brace has you covered. Registered internationally as a class 1 medical device with regulatory bodies including the FDA, this brace is manufactured to the highest quality and compliant standards. A side-hinge system and premium-grade neoprene use a non-slip design for the ultimate comfort and support, suitable for everyday activities and sports.
+
+A reinforced patellar gap aids with patellar tracking while a two-point geared hinge system helps control flexion and extension movements of connected muscles. A variable compression system (VCS) uses three straps to ensure blood flow safety while providing maximum joint protection and stability. One size fits all, is suitable for use by both men and women and is comfortable to wear with the heat therapeutic neoprene fabric.
+
+| Pros | Cons |
+|-------|--------|
+| <i class="fa fa-check"></i>  Knitted cotton fabric is more skin friendly than neoprene. | <i class="fa fa-remove"></i> Expensive. |
+| <i class="fa fa-check"></i>  Six sizes available for a custom fit. | <i class="fa fa-remove"></i> Only fits one leg with sizes available for right or left. |
+| <i class="fa fa-check"></i>  Stabilizes knee cap without limiting movement with two supportive pads. | <i class="fa fa-remove"></i> If you have larger thighs it can be too tight. |
+| Massaging effect for pain relief. | <i class="fa fa-remove"></i> Too restrictive for running and may shorten your stride. |
+| Machine washable. |  |
+
+### Compressions Knee Brace with Open Patella 
+  ![My helpful screenshot](images/posts/16.jpg)
+ 
+ An ultra-lightweight breathable and flexible neoprene fabric means you can enjoy full movement of your lower leg with this sleeve. This comfortable and cozy fitting solution will effectively support your kneecap and relieve it from joint pains. The neoprene is breathable so your leg won’t get too hot and quality Velcro fastenings ensure a secure fit with an additional silicone anti-slip strip to prevent it from sliding.
+
+Three adjustable straps allow you to adjust the tension where you need it with this one-size-fits-all patella brace—recommended for thigh circumferences from 12 to 18 inches. An open-patella design relieves pressure on the kneecap and stabilizes it, with a steel spring side providing more lateral support. This flexible neoprene brace offers you excellent movement, substantial comfort and extra support. Compressions even offers a 100 percent one-year money-back guarantee if you aren’t completely satisfied.
+
+
+| Pros | Cons |
+|-------|--------|
+| <i class="fa fa-check"></i>  Knitted cotton fabric is more skin friendly than neoprene. | <i class="fa fa-remove"></i> Expensive. |
+| <i class="fa fa-check"></i>  Six sizes available for a custom fit. | <i class="fa fa-remove"></i> Only fits one leg with sizes available for right or left. |
+| <i class="fa fa-check"></i>  Stabilizes knee cap without limiting movement with two supportive pads. | <i class="fa fa-remove"></i> If you have larger thighs it can be too tight. |
+| Massaging effect for pain relief. | <i class="fa fa-remove"></i> Too restrictive for running and may shorten your stride. |
+| Machine washable. |  |
+
+ ### DonJoy Lite Knee Support Brace 
+   ![My helpful screenshot](images/posts/16.jpg)
+   
+   This comfortable patella support brace features removable plastic hinges, a gel pad around the patella and adjustable Velcro straps. Combined with a supportive structure made from Breath-O-Prene, this brace helps alleviate patella pain and aligns your kneecap during movements. Side hinges provide additional medial/lateral support and provide a constant pull on the kneecap during flexion and extension to realign the patella.
+
+The high quality Breath-O-Prene provides a comfortable fit with adjustable Velcro straps so you can keep wearing the brace all day without fear of it slipping. The fabric is also antimicrobial, moisture wicking, hypoallergenic, lightweight and breathable. The brace only provides light support, but is ideal for those suffering from patellofemoral pain syndrome or other symptoms of injured patellas.
+
+| Pros | Cons |
+|-------|--------|
+| <i class="fa fa-check"></i>  Knitted cotton fabric is more skin friendly than neoprene. | <i class="fa fa-remove"></i> Expensive. |
+| <i class="fa fa-check"></i>  Six sizes available for a custom fit. | <i class="fa fa-remove"></i> Only fits one leg with sizes available for right or left. |
+| <i class="fa fa-check"></i>  Stabilizes knee cap without limiting movement with two supportive pads. | <i class="fa fa-remove"></i> If you have larger thighs it can be too tight. |
+| Massaging effect for pain relief. | <i class="fa fa-remove"></i> Too restrictive for running and may shorten your stride. |
+| Machine washable. |  |
+
+ ### Vive Knee Brace 
+![My helpful screenshot](images/posts/16.jpg)
+
+This budget-priced all-purpose knee brace from Vive can help with knee stability and support, preventing or treating the symptoms of patellofemoral pain syndrome. A reinforced open-patella design supports your kneecap and reduces the pressure and stress created by movement. Proper alignment of the ACL and MCL helps to relieve strains, sprains and improves patellar tracking while allowing for a full range of motion.
+
+Secured with three strong hook-and-loop straps, the knee brace fits most knees up to 17.5 inches in circumference. You can also tighten or loosen the straps to achieve the optimal level of compression and support needed for pain relief. A durable Neoprene fabric is used which is naturally moisture wicking and breathable to keep you cool and dry.
+| Pros | Cons |
+|-------|--------|
+| <i class="fa fa-check"></i>  Knitted cotton fabric is more skin friendly than neoprene. | <i class="fa fa-remove"></i> Expensive. |
+| <i class="fa fa-check"></i>  Six sizes available for a custom fit. | <i class="fa fa-remove"></i> Only fits one leg with sizes available for right or left. |
+| <i class="fa fa-check"></i>  Stabilizes knee cap without limiting movement with two supportive pads. | <i class="fa fa-remove"></i> If you have larger thighs it can be too tight. |
+| Massaging effect for pain relief. | <i class="fa fa-remove"></i> Too restrictive for running and may shorten your stride. |
+| Machine washable. |  |
+
+## Our Choice
+When choosing a brace to relieve the pain at the front of your knee, it’s most important to choose one which fits securely and offers constant support to the patella. The wide range of six different sizes which go above and beyond the normal universal sizing of similar knee braces, in our opinion, makes the Bauerfeind GenuTrain P3 knee support the best brace for patellofemoral pain syndrome.
+
+Although the price may be higher than many other braces, you’re getting a great-quality knee support that’s been specifically designed for your condition. A soft cotton knitted fabric provides breathable compression and gives anatomic support wherever actually needed with an integrated gel-ring pad to hold the kneecap securely in place. Using this knee support brace will soon get you pounding those tracks again, just with less pain next time.
+
+
+
+
+
+
+
+
+
 
 ## 4. Audio Interface
 Like a mixing console in a major pro studio, the audio interface is the heart of any project studio, so it's important to make the right choice. I'll explain which interface I bought and why, describe its features and how I feel about my decision.
-
+{% include image.html
+            img="images/posts/16.jpg"
+            title="title for image"
+            caption="caption for image" %}
 
 ## 5. Digital Audio Workstation & Control Surfaces
 Another important choice in setting up a project studio is the choice of Digital Audio Workstation (DAW). There is little to differentiate between DAWs in terms of quality these days, but there are significant differences in interface design, workflow and cost. Platform too (PC vs. Mac) will rule some options out as there are some PC-only and Mac-only options out there.  

@@ -785,6 +785,9 @@ table{
             width:100%;
             overflow-x:hidden;
     }
+    table thead{
+        display:none;
+    }
 }
 
 table th,table td{

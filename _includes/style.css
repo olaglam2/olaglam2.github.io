@@ -86,6 +86,14 @@ audio:not([controls]){
     display:none;
     height:0
 }
+li{
+    margin-top: 10px;
+    border:1px solid grey;
+}
+
+li:first-child {
+    margin-top:0;
+}
 
 table.fixed { table-layout:fixed; }
 table.fixed td { overflow: hidden; }

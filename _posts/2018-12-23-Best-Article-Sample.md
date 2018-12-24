@@ -33,7 +33,7 @@ When combined with other knee rehabilitation treatments, a knee support brace wi
 						<li> <img src="{{ "/images/posts/16.jpg" | absolute_url }}" alt="" /></li>
 						<li style="text-align: center;"><H4>Bauerfeind </H4></li>
 						<li style="text-align: center;"><H6>GenuTrain P3 Knee Support </H6></li>
-						<li style="text-align: center;"><a href="https://aax-us-east.amazon-adsystem.com/x/c/QmSvH1GCJpkjiewS5MX0KrkAAAFn357segEAAAFKATUCuX8/https://assoc-redirect.amazon.com/g/r/https://www.amazon.com/Bauerfeind-GenuTrain-P3-Knee-Support/dp/B00SITQ1FI?imprToken=lFcarFcP8vgtc9JVmVVQfQ&slotNum=1&SubscriptionId=AKIAJFQC6LY6SIMGJTXA&tag=ha-best-braces-patellofemoral-pain-syndrome-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00SITQ1FI" class='c-btn'>CLICK FOR 														PRICE</a></li>
+						<li style="text-align: center;"><a href="https://aax-us-east.amazon-adsystem.com/x/c/QmSvH1GCJpkjiewS5MX0KrkAAAFn357segEAAAFKATUCuX8/https://assoc-redirect.amazon.com/g/r/https://www.amazon.com/Bauerfeind-GenuTrain-P3-Knee-Support/dp/B00SITQ1FI?imprToken=lFcarFcP8vgtc9JVmVVQfQ&slotNum=1&SubscriptionId=AKIAJFQC6LY6SIMGJTXA&tag=ha-best-braces-patellofemoral-pain-syndrome-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00SITQ1FI" target="_blank" class='c-btn'>CLICK FOR 														PRICE</a></li>
 						</ol>
 					</td>
 					<td width="35%">
@@ -66,7 +66,7 @@ When combined with other knee rehabilitation treatments, a knee support brace wi
 						<li> <img src="{{ "/images/posts/16.jpg" | absolute_url }}" alt="" /></li>
 						<li style="text-align: center;"><H4>Neo-G</H4></li>
 						<li style="text-align: center;"><H6>Hinged Open-Patella Knee Brace</H6></li>
-						<li style="text-align: center;"><a href="https://www.amazon.com/Knee-Brace-Hinged-Open-Patella/dp/B001M0A4J4?imprToken=lFcarFcP8vgtc9JVmVVQfQ&slotNum=3&SubscriptionId=AKIAJFQC6LY6SIMGJTXA&tag=ha-best-braces-patellofemoral-pain-syndrome-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B001M0A4J4" class='c-btn'>CLICK FOR PRICE</a></li>
+						<li style="text-align: center;"><a href="https://www.amazon.com/Knee-Brace-Hinged-Open-Patella/dp/B001M0A4J4?imprToken=lFcarFcP8vgtc9JVmVVQfQ&slotNum=3&SubscriptionId=AKIAJFQC6LY6SIMGJTXA&tag=ha-best-braces-patellofemoral-pain-syndrome-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B001M0A4J4" target="_blank" class='c-btn'>CLICK FOR PRICE</a></li>
 						</ol>
 					</td>
 					<td width="35%">
@@ -99,7 +99,7 @@ When combined with other knee rehabilitation treatments, a knee support brace wi
 						<li> <img src="{{ "/images/posts/16.jpg" | absolute_url }}" alt="" /></li>
 						<li style="text-align: center;"><H4>Compressions  </H4></li>
 						<li style="text-align: center;"><H6>Knee Brace with Open Patella  </H6></li>
-						<li style="text-align: center;"><a href="https://www.amazon.com/Knee-Brace-Hinged-Open-Patella/dp/B001M0A4J4?imprToken=lFcarFcP8vgtc9JVmVVQfQ&slotNum=3&SubscriptionId=AKIAJFQC6LY6SIMGJTXA&tag=ha-best-braces-patellofemoral-pain-syndrome-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B001M0A4J4" class='c-btn'>CLICK FOR PRICE</a></li>
+						<li style="text-align: center;"><a href="https://www.amazon.com/Knee-Brace-Hinged-Open-Patella/dp/B001M0A4J4?imprToken=lFcarFcP8vgtc9JVmVVQfQ&slotNum=3&SubscriptionId=AKIAJFQC6LY6SIMGJTXA&tag=ha-best-braces-patellofemoral-pain-syndrome-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B001M0A4J4" target="_blank" class='c-btn'>CLICK FOR PRICE</a></li>
 						</ol>
 					</td>
 					<td width="35%">
@@ -132,7 +132,7 @@ When combined with other knee rehabilitation treatments, a knee support brace wi
 						<li> <img src="{{ "/images/posts/16.jpg" | absolute_url }}" alt="" /></li>
 						<li style="text-align: center;"><H4>DonJoy</H4></li>
 						<li style="text-align: center;"><H6>PLite Knee Support Brace</H6></li>
-						<li style="text-align: center;"><a href="https://www.amazon.com/Knee-Brace-Hinged-Open-Patella/dp/B001M0A4J4?imprToken=lFcarFcP8vgtc9JVmVVQfQ&slotNum=3&SubscriptionId=AKIAJFQC6LY6SIMGJTXA&tag=ha-best-braces-patellofemoral-pain-syndrome-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B001M0A4J4" class='c-btn'>CLICK FOR PRICE</a></li>
+						<li style="text-align: center;"><a href="https://www.amazon.com/Knee-Brace-Hinged-Open-Patella/dp/B001M0A4J4?imprToken=lFcarFcP8vgtc9JVmVVQfQ&slotNum=3&SubscriptionId=AKIAJFQC6LY6SIMGJTXA&tag=ha-best-braces-patellofemoral-pain-syndrome-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B001M0A4J4" target="_blank" class='c-btn'>CLICK FOR PRICE</a></li> 
 						</ol>
 					</td>
 					<td width="35%">
@@ -165,7 +165,7 @@ When combined with other knee rehabilitation treatments, a knee support brace wi
 						<li> <img src="{{ "/images/posts/16.jpg" | absolute_url }}" alt="" /></li>
 						<li style="text-align: center;"><H4>Vive </H4></li>
 						<li style="text-align: center;"><H6>Knee Brace</H6></li>
-						<li style="text-align: center;"><a href="https://www.amazon.com/Knee-Brace-Hinged-Open-Patella/dp/B001M0A4J4?imprToken=lFcarFcP8vgtc9JVmVVQfQ&slotNum=3&SubscriptionId=AKIAJFQC6LY6SIMGJTXA&tag=ha-best-braces-patellofemoral-pain-syndrome-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B001M0A4J4" class='c-btn'>CLICK FOR PRICE</a></li>
+						<li style="text-align: center;"><a href="https://www.amazon.com/Knee-Brace-Hinged-Open-Patella/dp/B001M0A4J4?imprToken=lFcarFcP8vgtc9JVmVVQfQ&slotNum=3&SubscriptionId=AKIAJFQC6LY6SIMGJTXA&tag=ha-best-braces-patellofemoral-pain-syndrome-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B001M0A4J4" target="_blank" class='c-btn'>CLICK FOR PRICE</a></li>
 						</ol>
 					</td>
 					<td width="35%">

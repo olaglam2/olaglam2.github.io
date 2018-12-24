@@ -251,7 +251,12 @@ What we particularly like about this knee brace is the knitted cotton fabric is 
 | Massaging effect for pain relief. | <i class="fa fa-remove"></i> Too restrictive for running and may shorten your stride. |
 | Machine washable. |  |
 
+
 <span style="text-align: center;"><a href="https://www.amazon.com/Knee-Brace-Hinged-Open-Patella/dp/B001M0A4J4?imprToken=lFcarFcP8vgtc9JVmVVQfQ&slotNum=3&SubscriptionId=AKIAJFQC6LY6SIMGJTXA&tag=ha-best-braces-patellofemoral-pain-syndrome-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B001M0A4J4" target="_blank" class='c-btn'>CLICK FOR PRICE</a></span> 
+</br>
+</br>
+</br>
+
 
 ###  Neo-G Hinged Open-Patella Knee Brace 
  ![My helpful screenshot](images/posts/16.jpg)
@@ -267,7 +272,14 @@ A reinforced patellar gap aids with patellar tracking while a two-point geared h
 | Massaging effect for pain relief. | <i class="fa fa-remove"></i> Too restrictive for running and may shorten your stride. |
 | Machine washable. |  |
 
+
+
 <span style="text-align: center;"><a href="https://www.amazon.com/Knee-Brace-Hinged-Open-Patella/dp/B001M0A4J4?imprToken=lFcarFcP8vgtc9JVmVVQfQ&slotNum=3&SubscriptionId=AKIAJFQC6LY6SIMGJTXA&tag=ha-best-braces-patellofemoral-pain-syndrome-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B001M0A4J4" target="_blank" class='c-btn'>CLICK FOR PRICE</a></span> 
+
+</br>
+</br>
+</br>
+
 
 ### Compressions Knee Brace with Open Patella 
   ![My helpful screenshot](images/posts/16.jpg)
@@ -287,6 +299,11 @@ Three adjustable straps allow you to adjust the tension where you need it with t
 
 <span style="text-align: center;"><a href="https://www.amazon.com/Knee-Brace-Hinged-Open-Patella/dp/B001M0A4J4?imprToken=lFcarFcP8vgtc9JVmVVQfQ&slotNum=3&SubscriptionId=AKIAJFQC6LY6SIMGJTXA&tag=ha-best-braces-patellofemoral-pain-syndrome-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B001M0A4J4" target="_blank" class='c-btn'>CLICK FOR PRICE</a></span> 
 
+</br>
+</br>
+</br>
+
+
  ### DonJoy Lite Knee Support Brace 
    ![My helpful screenshot](images/posts/16.jpg)
    
@@ -304,6 +321,11 @@ The high quality Breath-O-Prene provides a comfortable fit with adjustable Velcr
 
 <span style="text-align: center;"><a href="https://www.amazon.com/Knee-Brace-Hinged-Open-Patella/dp/B001M0A4J4?imprToken=lFcarFcP8vgtc9JVmVVQfQ&slotNum=3&SubscriptionId=AKIAJFQC6LY6SIMGJTXA&tag=ha-best-braces-patellofemoral-pain-syndrome-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B001M0A4J4" target="_blank" class='c-btn'>CLICK FOR PRICE</a></span> 
  
+ </br>
+</br>
+</br>
+
+
  ### Vive Knee Brace 
  
 ![My helpful screenshot](images/posts/16.jpg)
@@ -322,6 +344,11 @@ Secured with three strong hook-and-loop straps, the knee brace fits most knees u
 
 
 <span style="text-align: center;"><a href="https://www.amazon.com/Knee-Brace-Hinged-Open-Patella/dp/B001M0A4J4?imprToken=lFcarFcP8vgtc9JVmVVQfQ&slotNum=3&SubscriptionId=AKIAJFQC6LY6SIMGJTXA&tag=ha-best-braces-patellofemoral-pain-syndrome-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B001M0A4J4" target="_blank" class='c-btn'>CLICK FOR PRICE</a></span> 
+
+</br>
+</br>
+</br>
+
 
 ## Our Choice
 When choosing a brace to relieve the pain at the front of your knee, it’s most important to choose one which fits securely and offers constant support to the patella. The wide range of six different sizes which go above and beyond the normal universal sizing of similar knee braces, in our opinion, makes the Bauerfeind GenuTrain P3 knee support the best brace for patellofemoral pain syndrome.

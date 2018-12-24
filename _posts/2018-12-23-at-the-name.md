@@ -43,10 +43,6 @@ Not the most glamorous subject, but important none-the-less. I'll go through my 
 I'll finish off the series with some thoughts on areas where I could improve the studio in future. I have no idea whether I will ever have the budget to implement any of these, but it's a pleasant way to pass some time!
 
 
-| PRODUCT | DETAILS | OUR RATING |
-|-------|--------|---------|
-| ![My helpful screenshot](images/posts/16.jpg){:class="img-review"} | Studio monitors and headphones are another <br/> Studio monitors and headphones are another <br/> Studio monitors and headphones are another <br/><h1>.</h1> Studio monitors and headphones are another <br/> | <button class='c-btn c-btn--active'>Button</button> |
-
 
 <div >
 	<table >
@@ -67,7 +63,7 @@ I'll finish off the series with some thoughts on areas where I could improve the
 						<li> <img src="{{ "/images/posts/16.jpg" | absolute_url }}" alt="" /></li>
 						<li style="text-align: center;"><H4>Studio monitors and headphones are another</H4></li>
 						<li style="text-align: center;"><H6>Studio monitors and headphones are another</H6></li>
-						<li style="text-align: center;"><button class='c-btn c-btn--active'>CLICK FOR PRICE</button></li>
+						<li style="text-align: center;"><button class='c-btn'>CLICK FOR PRICE</button></li>
 						</ol>
 					</td>
 					<td width="35%">

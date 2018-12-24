@@ -785,6 +785,9 @@ input[type='text']:focus,input[type='password']:focus,input[type='date']:focus,i
 table tbody .tab-hid{
         Display:none;
     }
+table thead{
+    background: #16A085;
+    }
 table{
     width:100%;
     max-width:100%;

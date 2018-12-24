@@ -253,9 +253,9 @@ What we particularly like about this knee brace is the knitted cotton fabric is 
 
 
 <span style="text-align: center;"><a href="https://www.amazon.com/Knee-Brace-Hinged-Open-Patella/dp/B001M0A4J4?imprToken=lFcarFcP8vgtc9JVmVVQfQ&slotNum=3&SubscriptionId=AKIAJFQC6LY6SIMGJTXA&tag=ha-best-braces-patellofemoral-pain-syndrome-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B001M0A4J4" target="_blank" class='c-btn'>CLICK FOR PRICE</a></span> 
-</br>
-</br>
-</br>
+<br>
+<br>
+<br>
 
 
 ###  Neo-G Hinged Open-Patella Knee Brace 
@@ -276,9 +276,9 @@ A reinforced patellar gap aids with patellar tracking while a two-point geared h
 
 <span style="text-align: center;"><a href="https://www.amazon.com/Knee-Brace-Hinged-Open-Patella/dp/B001M0A4J4?imprToken=lFcarFcP8vgtc9JVmVVQfQ&slotNum=3&SubscriptionId=AKIAJFQC6LY6SIMGJTXA&tag=ha-best-braces-patellofemoral-pain-syndrome-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B001M0A4J4" target="_blank" class='c-btn'>CLICK FOR PRICE</a></span> 
 
-</br>
-</br>
-</br>
+<br>
+<br>
+<br>
 
 
 ### Compressions Knee Brace with Open Patella 
@@ -299,9 +299,9 @@ Three adjustable straps allow you to adjust the tension where you need it with t
 
 <span style="text-align: center;"><a href="https://www.amazon.com/Knee-Brace-Hinged-Open-Patella/dp/B001M0A4J4?imprToken=lFcarFcP8vgtc9JVmVVQfQ&slotNum=3&SubscriptionId=AKIAJFQC6LY6SIMGJTXA&tag=ha-best-braces-patellofemoral-pain-syndrome-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B001M0A4J4" target="_blank" class='c-btn'>CLICK FOR PRICE</a></span> 
 
-</br>
-</br>
-</br>
+<br>
+<br>
+<br>
 
 
  ### DonJoy Lite Knee Support Brace 
@@ -321,9 +321,9 @@ The high quality Breath-O-Prene provides a comfortable fit with adjustable Velcr
 
 <span style="text-align: center;"><a href="https://www.amazon.com/Knee-Brace-Hinged-Open-Patella/dp/B001M0A4J4?imprToken=lFcarFcP8vgtc9JVmVVQfQ&slotNum=3&SubscriptionId=AKIAJFQC6LY6SIMGJTXA&tag=ha-best-braces-patellofemoral-pain-syndrome-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B001M0A4J4" target="_blank" class='c-btn'>CLICK FOR PRICE</a></span> 
  
- </br>
-</br>
-</br>
+<br>
+<br>
+<br>
 
 
  ### Vive Knee Brace 
@@ -345,9 +345,9 @@ Secured with three strong hook-and-loop straps, the knee brace fits most knees u
 
 <span style="text-align: center;"><a href="https://www.amazon.com/Knee-Brace-Hinged-Open-Patella/dp/B001M0A4J4?imprToken=lFcarFcP8vgtc9JVmVVQfQ&slotNum=3&SubscriptionId=AKIAJFQC6LY6SIMGJTXA&tag=ha-best-braces-patellofemoral-pain-syndrome-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B001M0A4J4" target="_blank" class='c-btn'>CLICK FOR PRICE</a></span> 
 
-</br>
-</br>
-</br>
+<br>
+<br>
+<br>
 
 
 ## Our Choice

@@ -1828,7 +1828,7 @@ html,body{
 .c-btn{
     display:inline-block;
     padding:16px 32px;
-    border-radius:0;
+    border-radius:2em;
     cursor:pointer;
     transition:250ms;
     text-align:center;

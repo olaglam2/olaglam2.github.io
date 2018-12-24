@@ -58,7 +58,7 @@ I'll finish off the series with some thoughts on areas where I could improve the
 					<td class="tab-hid">
 						<h4 style="text-align: center;"> Our #1 Rated</h4>
 					</td>
-					<td width="32%">	
+					<td width="35%">	
 						<ol style="list-style: none;">
 						<li> <img src="{{ "/images/posts/16.jpg" | absolute_url }}" alt="" /></li>
 						<li style="text-align: center;"><H4>Studio monitors and headphones are another</H4></li>
@@ -74,7 +74,7 @@ I'll finish off the series with some thoughts on areas where I could improve the
 						<li> Studio monitors and headphones are another</li>
 						</ul>
 					</td>
-					<td width="33%">	
+					<td width="30%">	
 						<ul style="list-style: none;">
 						<li style="text-align: center;"> <H4> Our #1 Rated </H4></li>
 						<li style="text-align: center;"> 

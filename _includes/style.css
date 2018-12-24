@@ -791,7 +791,7 @@ table{
     table thead{
         display:none;
     }
-    .tab-hid{
+    table td .tab-hid{
         Display:block;
     }
 }

@@ -31,9 +31,9 @@ When combined with other knee rehabilitation treatments, a knee support brace wi
 					<td width="35%">	
 						<ol style="list-style: none;">
 						<li> <img src="{{ "/images/posts/16.jpg" | absolute_url }}" alt="" /></li>
-						<li style="text-align: center;"><H4>Studio monitors</H4></li>
-						<li style="text-align: center;"><H6>Studio monitors and headphones are another</H6></li>
-						<li style="text-align: center;"><button class='c-btn'>CLICK FOR PRICE</button></li>
+						<li style="text-align: center;"><H4>Bauerfeind </H4></li>
+						<li style="text-align: center;"><H6>GenuTrain P3 Knee Support </H6></li>
+						<li style="text-align: center;"><a href="https://aax-us-east.amazon-adsystem.com/x/c/QmSvH1GCJpkjiewS5MX0KrkAAAFn357segEAAAFKATUCuX8/https://assoc-redirect.amazon.com/g/r/https://www.amazon.com/Bauerfeind-GenuTrain-P3-Knee-Support/dp/B00SITQ1FI?imprToken=lFcarFcP8vgtc9JVmVVQfQ&slotNum=1&SubscriptionId=AKIAJFQC6LY6SIMGJTXA&tag=ha-best-braces-patellofemoral-pain-syndrome-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00SITQ1FI" class='c-btn'>CLICK FOR 														PRICE</a></li>
 						</ol>
 					</td>
 					<td width="35%">

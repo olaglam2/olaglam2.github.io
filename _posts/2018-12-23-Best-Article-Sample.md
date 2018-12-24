@@ -38,76 +38,8 @@ When combined with other knee rehabilitation treatments, a knee support brace wi
 					</td>
 					<td width="35%">
 						<ul >
-						<li> Studio monitors and headphones are another</li>
-						<li>Studio monitors and headphones are another </li>
-						<li> Studio monitors and headphones are another</li>
-						<li> Studio monitors and headphones are another</li>
-						</ul>
-					</td>
-					<td width="30%">	
-						<ul style="list-style: none;">
-						<li style="text-align: center;"> <H4> Our #1 Rated </H4></li>
-						<li style="text-align: center;"> 
-							<span class="fa fa-star checked"></span>
-						      	<span class="fa fa-star checked"></span>
-							<span class="fa fa-star checked"></span>
-							<span class="fa fa-star checked"></span>
-							<span class="fa fa-star"></span>
-						</li>
-						<li style="text-align: center;"> 4 out of 5</li>
-						</ul>
-					</td>
-				</tr>
-				<tr>
-					<td class="tab-hid">
-						<h4 style="text-align: center;"> Our #1 Rated</h4>
-					</td>
-					<td width="35%">	
-						<ol style="list-style: none;">
-						<li> <img src="{{ "/images/posts/16.jpg" | absolute_url }}" alt="" /></li>
-						<li style="text-align: center;"><H4>Studio monitors</H4></li>
-						<li style="text-align: center;"><H6>Studio monitors and headphones are another</H6></li>
-						<li style="text-align: center;"><button class='c-btn'>CLICK FOR PRICE</button></li>
-						</ol>
-					</td>
-					<td width="35%">
-						<ul >
-						<li> Studio monitors and headphones are another</li>
-						<li>Studio monitors and headphones are another </li>
-						<li> Studio monitors and headphones are another</li>
-						<li> Studio monitors and headphones are another</li>
-						</ul>
-					</td>
-					<td width="30%">	
-						<ul style="list-style: none;">
-						<li style="text-align: center;"> <H4> Our #1 Rated </H4></li>
-						<li style="text-align: center;"> 
-							<span class="fa fa-star checked"></span>
-						      	<span class="fa fa-star checked"></span>
-							<span class="fa fa-star checked"></span>
-							<span class="fa fa-star checked"></span>
-							<span class="fa fa-star"></span>
-						</li>
-						<li style="text-align: center;"> 4 out of 5</li>
-						</ul>
-					</td>
-				</tr>
-				<tr>
-					<td class="tab-hid">
-						<h4 style="text-align: center;"> Our #1 Rated</h4>
-					</td>
-					<td width="35%">	
-						<ol style="list-style: none;">
-						<li> <img src="{{ "/images/posts/16.jpg" | absolute_url }}" alt="" /></li>
-						<li style="text-align: center;"><H4>Bauerfeind </H4></li>
-						<li style="text-align: center;"><H6>GenuTrain P3 Knee Support </H6></li>
-						<li style="text-align: center;"><button class='c-btn'>CLICK FOR PRICE</button></li>
-						</ol>
-					</td>
-					<td width="35%">
-						<ul >
 						<li> Knitted cotton fabric knee brace with patella supportive doughnut-shaped pad to eliminate pressure and deliver intermittent massage.</li>
-						<li>Six sizes for either right or left leg fit. </li>
+						<li>Six sizes for either right or left leg fit.</li>
 						<li> Medical-grade compression to relieve knee pain and swelling.</li>
 						</ul>
 					</td>
@@ -127,27 +59,26 @@ When combined with other knee rehabilitation treatments, a knee support brace wi
 				</tr>
 				<tr>
 					<td class="tab-hid">
-						<h4 style="text-align: center;"> Our #1 Rated</h4>
+						<h4 style="text-align: center;"> Our #2 Rated</h4>
 					</td>
 					<td width="35%">	
 						<ol style="list-style: none;">
 						<li> <img src="{{ "/images/posts/16.jpg" | absolute_url }}" alt="" /></li>
-						<li style="text-align: center;"><H4>Studio monitors</H4></li>
-						<li style="text-align: center;"><H6>Studio monitors and headphones are another</H6></li>
-						<li style="text-align: center;"><button class='c-btn'>CLICK FOR PRICE</button></li>
+						<li style="text-align: center;"><H4>Neo-G</H4></li>
+						<li style="text-align: center;"><H6>Hinged Open-Patella Knee Brace</H6></li>
+						<li style="text-align: center;"><a href="https://www.amazon.com/Knee-Brace-Hinged-Open-Patella/dp/B001M0A4J4?imprToken=lFcarFcP8vgtc9JVmVVQfQ&slotNum=3&SubscriptionId=AKIAJFQC6LY6SIMGJTXA&tag=ha-best-braces-patellofemoral-pain-syndrome-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B001M0A4J4" class='c-btn'>CLICK FOR PRICE</a></li>
 						</ol>
 					</td>
 					<td width="35%">
 						<ul >
-						<li> Studio monitors and headphones are another</li>
-						<li>Studio monitors and headphones are another </li>
-						<li> Studio monitors and headphones are another</li>
-						<li> Studio monitors and headphones are another</li>
+						<li> Class 1 medical device hinged brace made from premium-grade neoprene.</li>
+						<li>Reinforced open-patella design to support patellar tracking problems.</li>
+						<li> One size with fully adjustable compression for best fit.</li>
 						</ul>
 					</td>
 					<td width="30%">	
 						<ul style="list-style: none;">
-						<li style="text-align: center;"> <H4> Our #1 Rated </H4></li>
+						<li style="text-align: center;"> <H4> Our #2 Rated </H4></li>
 						<li style="text-align: center;"> 
 							<span class="fa fa-star checked"></span>
 						      	<span class="fa fa-star checked"></span>
@@ -161,27 +92,92 @@ When combined with other knee rehabilitation treatments, a knee support brace wi
 				</tr>
 				<tr>
 					<td class="tab-hid">
-						<h4 style="text-align: center;"> Our #1 Rated</h4>
+						<h4 style="text-align: center;"> Our #3 Rated</h4>
 					</td>
 					<td width="35%">	
 						<ol style="list-style: none;">
 						<li> <img src="{{ "/images/posts/16.jpg" | absolute_url }}" alt="" /></li>
-						<li style="text-align: center;"><H4>Studio monitors</H4></li>
-						<li style="text-align: center;"><H6>Studio monitors and headphones are another</H6></li>
-						<li style="text-align: center;"><button class='c-btn'>CLICK FOR PRICE</button></li>
+						<li style="text-align: center;"><H4>Compressions  </H4></li>
+						<li style="text-align: center;"><H6>Knee Brace with Open Patella  </H6></li>
+						<li style="text-align: center;"><a href="https://www.amazon.com/Knee-Brace-Hinged-Open-Patella/dp/B001M0A4J4?imprToken=lFcarFcP8vgtc9JVmVVQfQ&slotNum=3&SubscriptionId=AKIAJFQC6LY6SIMGJTXA&tag=ha-best-braces-patellofemoral-pain-syndrome-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B001M0A4J4" class='c-btn'>CLICK FOR PRICE</a></li>
 						</ol>
 					</td>
 					<td width="35%">
 						<ul >
-						<li> Studio monitors and headphones are another</li>
-						<li>Studio monitors and headphones are another </li>
-						<li> Studio monitors and headphones are another</li>
-						<li> Studio monitors and headphones are another</li>
+						<li> Neoprene and Velcro knee brace with an open-patella design.</li>
+						<li>Adjustable straps allow for custom size and compression where you need it.. </li>
+						<li> Lightweight, breathable and flexible—won’t restrict your movement.</li>
 						</ul>
 					</td>
 					<td width="30%">	
 						<ul style="list-style: none;">
-						<li style="text-align: center;"> <H4> Our #1 Rated </H4></li>
+						<li style="text-align: center;"> <H4> Our #3 Rated </H4></li>
+						<li style="text-align: center;"> 
+							<span class="fa fa-star checked"></span>
+						      	<span class="fa fa-star checked"></span>
+							<span class="fa fa-star checked"></span>
+							<span class="fa fa-star checked"></span>
+							<span class="fa fa-star"></span>
+						</li>
+						<li style="text-align: center;"> 4 out of 5</li>
+						</ul>
+					</td>
+				</tr>
+				<tr>
+					<td class="tab-hid">
+						<h4 style="text-align: center;"> Our #4 Rated</h4>
+					</td>
+					<td width="35%">	
+						<ol style="list-style: none;">
+						<li> <img src="{{ "/images/posts/16.jpg" | absolute_url }}" alt="" /></li>
+						<li style="text-align: center;"><H4>DonJoy</H4></li>
+						<li style="text-align: center;"><H6>PLite Knee Support Brace</H6></li>
+						<li style="text-align: center;"><a href="https://www.amazon.com/Knee-Brace-Hinged-Open-Patella/dp/B001M0A4J4?imprToken=lFcarFcP8vgtc9JVmVVQfQ&slotNum=3&SubscriptionId=AKIAJFQC6LY6SIMGJTXA&tag=ha-best-braces-patellofemoral-pain-syndrome-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B001M0A4J4" class='c-btn'>CLICK FOR PRICE</a></li>
+						</ol>
+					</td>
+					<td width="35%">
+						<ul >
+						<li> Comfortable patella support brace for mild to moderate patellar dislocations.</li>
+						<li>Plastic hinges provide medial/lateral support and provide a consistent pull to realign the patella.</li>
+						<li> Made from Breath-O-Prene; an antimicrobial wicking fabric that’s lightweight breathable and hypoallergenic.</li>
+						</ul>
+					</td>
+					<td width="30%">	
+						<ul style="list-style: none;">
+						<li style="text-align: center;"> <H4> Our #4 Rated </H4></li>
+						<li style="text-align: center;"> 
+							<span class="fa fa-star checked"></span>
+						      	<span class="fa fa-star checked"></span>
+							<span class="fa fa-star checked"></span>
+							<span class="fa fa-star checked"></span>
+							<span class="fa fa-star"></span>
+						</li>
+						<li style="text-align: center;"> 4 out of 5</li>
+						</ul>
+					</td>
+				</tr>
+				<tr>
+					<td class="tab-hid">
+						<h4 style="text-align: center;"> Our #5 Rated</h4>
+					</td>
+					<td width="35%">	
+						<ol style="list-style: none;">
+						<li> <img src="{{ "/images/posts/16.jpg" | absolute_url }}" alt="" /></li>
+						<li style="text-align: center;"><H4>Vive </H4></li>
+						<li style="text-align: center;"><H6>Knee Brace</H6></li>
+						<li style="text-align: center;"><a href="https://www.amazon.com/Knee-Brace-Hinged-Open-Patella/dp/B001M0A4J4?imprToken=lFcarFcP8vgtc9JVmVVQfQ&slotNum=3&SubscriptionId=AKIAJFQC6LY6SIMGJTXA&tag=ha-best-braces-patellofemoral-pain-syndrome-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B001M0A4J4" class='c-btn'>CLICK FOR PRICE</a></li>
+						</ol>
+					</td>
+					<td width="35%">
+						<ul >
+						<li>Wraparound knee brace for improved knee stability and support.</li>
+						<li>Reinforced open-patella design to support the kneecap and reduce the pressure and stress of movement.</li>
+						<li> Breathable and lightweight neoprene latex free available in one universal size up to 17.5 inches knee circumference.</li>
+						</ul>
+					</td>
+					<td width="30%">	
+						<ul style="list-style: none;">
+						<li style="text-align: center;"> <H4> Our #5 Rated </H4></li>
 						<li style="text-align: center;"> 
 							<span class="fa fa-star checked"></span>
 						      	<span class="fa fa-star checked"></span>

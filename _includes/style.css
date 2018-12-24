@@ -787,6 +787,10 @@ table tbody .tab-hid{
     }
 table thead{
     background: #16A085;
+    border-radius: 8px 8px 0 0;
+    font-size: 21px;
+    font-weight: bold;
+    color: #fff;
     }
 table{
     width:100%;
@@ -805,6 +809,11 @@ table{
     }
     table tbody .tab-hid {
         Display:block;
+        background: #16A085;
+        border-radius: 8px 8px 0 0;
+        font-size: 21px;
+        font-weight: bold;
+        color: #fff;
     }
 }
 

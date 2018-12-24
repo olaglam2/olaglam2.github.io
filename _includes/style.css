@@ -817,7 +817,7 @@ table{
 }
 
 table th,table td{
-    padding:16px;
+    padding:12px;
     text-align:left;
     vertical-align:top;
     border-top:1px solid #ECF0F1;

@@ -302,12 +302,15 @@ The high quality Breath-O-Prene provides a comfortable fit with adjustable Velcr
 | Massaging effect for pain relief. | <i class="fa fa-remove"></i> Too restrictive for running and may shorten your stride. |
 | Machine washable. |  |
 
+ 
  ### Vive Knee Brace 
+ 
 ![My helpful screenshot](images/posts/16.jpg)
 
 This budget-priced all-purpose knee brace from Vive can help with knee stability and support, preventing or treating the symptoms of patellofemoral pain syndrome. A reinforced open-patella design supports your kneecap and reduces the pressure and stress created by movement. Proper alignment of the ACL and MCL helps to relieve strains, sprains and improves patellar tracking while allowing for a full range of motion.
 
 Secured with three strong hook-and-loop straps, the knee brace fits most knees up to 17.5 inches in circumference. You can also tighten or loosen the straps to achieve the optimal level of compression and support needed for pain relief. A durable Neoprene fabric is used which is naturally moisture wicking and breathable to keep you cool and dry.
+
 | Pros | Cons |
 |-------|--------|
 | <i class="fa fa-check"></i>  Knitted cotton fabric is more skin friendly than neoprene. | <i class="fa fa-remove"></i> Expensive. |

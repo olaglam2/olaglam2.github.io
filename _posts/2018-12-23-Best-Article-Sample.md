@@ -199,7 +199,7 @@ When combined with other knee rehabilitation treatments, a knee support brace wi
 		</table>
 	</div>
 
-##3 What Is Patellofemoral Pain Syndrome?
+##  What Is Patellofemoral Pain Syndrome?
 Here is our review of the five top throwing knives we’ve found.
 
 What Is Patellofemoral Pain Syndrome?
@@ -222,11 +222,11 @@ Gentle exercise and stretches will improve your strength and mobility without ri
 
 
 
-####Rest and Compression
+#### Rest and Compression
 
 As patellofemoral pain syndrome is often caused by overuse or overactivity, resting the affected area can help treat the condition. The RICE method (rest, ice, compression and elevation) will relieve the pain and help reduce any swelling. Taping or a bandage may be used for compression but the effects will decrease over time.
 
-####Patellar Braces
+#### Patellar Braces
 
 The best brace for patellofemoral pain will apply an external force that counteracts improper patella tracking. Studies have shown that patellar braces significantly alter the patellar tracking. One study found using a knee brace alters the position of the patella in the femoral groove of patients with patellofemoral pain syndrome. Basically it puts your knee back in the groove.
 
@@ -242,7 +242,7 @@ Knee braces for patellofemoral pain are usually a sleeve-style of brace that’l
 
 We’ve looked at many of the top-selling braces to bring you, in our opinion, the best five options for the best brace for patellofemoral pain syndrome.
 
- ###Bauerfeind GenuTrain P3 Knee Support 
+ ### Bauerfeind GenuTrain P3 Knee Support 
  
  The GenuTrain P3 knee brace has been designed to relieve pain from the misalignment of the knee cap with P3 standing for permanent patella protection. Using a corrective strap, an integrated ring-shaped pad holds the kneecap securely and prevents drifting. This knitted brace/sleeve can be used to treat and prevent patellofemoral pain syndrome, chondromalacia, dislocation of the knee or other patella-related problems.
 
@@ -256,9 +256,12 @@ What we particularly like about this knee brace is the knitted cotton fabric is 
 	    
 | Pros | Cons |
 |-------|--------|
-| ambrosia | gala |
-| pink lady | jazz |
-| honeycrisp | granny smith |
+| <i class="fa fa-check"></i>  Knitted cotton fabric is more skin friendly than neoprene. | Expensive. |
+| <i class="fa fa-check"></i>  Six sizes available for a custom fit. | Only fits one leg with sizes available for right or left. |
+| <i class="fa fa-check"></i>  Stabilizes knee cap without limiting movement with two supportive pads. | If you have larger thighs it can be too tight. |
+| Massaging effect for pain relief. | Too restrictive for running and may shorten your stride. |
+| Machine washable. |  |
+
 
 ## 4. Audio Interface
 Like a mixing console in a major pro studio, the audio interface is the heart of any project studio, so it's important to make the right choice. I'll explain which interface I bought and why, describe its features and how I feel about my decision.

@@ -790,7 +790,7 @@ table{
     max-width:100%;
     line-height: 20px;
 }
-@media (max-width: 63.99em){
+@media (max-width: 767px){
     table th,table td{
            display:block;
             width:100%;

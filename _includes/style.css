@@ -777,7 +777,7 @@ input[type='text']:focus,input[type='password']:focus,input[type='date']:focus,i
 table{
     width:100%;
     max-width:100%;
-
+    line-height: 32px;
 }
 @media (max-width: 63.99em){
     table{

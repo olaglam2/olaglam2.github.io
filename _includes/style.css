@@ -778,9 +778,6 @@ table{
     width:100%;
     max-width:100%;
     line-height: 20px;
-     display:block;
-     width:100%;
-     overflow-x:auto;
 }
 @media (max-width: 63.99em){
     .table-resp{
@@ -796,7 +793,10 @@ table th,table td{
     vertical-align:top;
     border-top:1px solid #ECF0F1;
     font-weight:400; 
-    font-size: 14px;    
+    font-size: 14px; 
+    display:block;
+    width:100%;
+    overflow-x:auto;
 }
 table thead th{
     font-weight:500;

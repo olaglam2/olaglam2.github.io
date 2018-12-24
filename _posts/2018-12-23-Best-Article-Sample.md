@@ -190,12 +190,6 @@ When combined with other knee rehabilitation treatments, a knee support brace wi
 					</td>
 				</tr>
 		  </tbody>
-			<tfoot>
-				<tr>
-					<td colspan="2"></td>
-					<td>100.00</td>
-				</tr>
-			</tfoot>
 		</table>
 	</div>
 

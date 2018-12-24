@@ -59,7 +59,7 @@ I'll finish off the series with some thoughts on areas where I could improve the
 
 
 <div >
-	<table class="fixed">
+	<table class="fixed table-resp">
 			<thead>
 				<tr >
 					<th style="text-align: center;">PRODUCT</th>

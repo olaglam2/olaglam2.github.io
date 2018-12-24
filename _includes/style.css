@@ -777,13 +777,23 @@ input[type='text']:focus,input[type='password']:focus,input[type='date']:focus,i
 table{
     width:100%;
     max-width:100%;
+
 }
+@media (max-width: 63.99em){
+    table{
+           display:block;
+            width:100%;
+            overflow-x:auto;
+    }
+}
+
 table th,table td{
     padding:16px;
     text-align:left;
     vertical-align:top;
     border-top:1px solid #ECF0F1;
-    font-weight:400 
+    font-weight:400; 
+    font-size: 14px;    
 }
 table thead th{
     font-weight:500;

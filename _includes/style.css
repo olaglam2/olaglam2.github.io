@@ -778,9 +778,6 @@ table{
     width:100%;
     max-width:100%;
     line-height: 20px;
-               display:block;
-            width:100%;
-            overflow-x:auto;
 }
 @media (max-width: 63.99em){
     .table-resp{

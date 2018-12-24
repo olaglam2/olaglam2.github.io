@@ -61,7 +61,7 @@ I'll finish off the series with some thoughts on areas where I could improve the
 					<td width="35%">	
 						<ol style="list-style: none;">
 						<li> <img src="{{ "/images/posts/16.jpg" | absolute_url }}" alt="" /></li>
-						<li style="text-align: center;"><H4>Studio monitors and headphones are another</H4></li>
+						<li style="text-align: center;"><H4>Studio monitors</H4></li>
 						<li style="text-align: center;"><H6>Studio monitors and headphones are another</H6></li>
 						<li style="text-align: center;"><button class='c-btn'>CLICK FOR PRICE</button></li>
 						</ol>

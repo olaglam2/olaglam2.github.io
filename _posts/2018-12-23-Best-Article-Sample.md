@@ -209,7 +209,7 @@ Once diagnosed, a doctor will recommend the best course of action for treating y
 
 Non-steroidal anti-inflammatory drugs which reduce the swelling and relieve the pain are another option. Over-the-counter drugs like ibuprofen and acetaminophen will help with healing too. Always consult your doctor before taking any new medications.
 
-####Exercise to Treat and Prevent Patellofemoral Pain Syndrome
+#### Exercise to Treat and Prevent Patellofemoral Pain Syndrome
 
 Gentle exercise and stretches will improve your strength and mobility without risking further damage to the knee. By strengthening the muscles attached to your knee, you’ll reduce the patellofemoral pain. In the following YouTube video, a physiotherapist details some exercises and stretches that’ll get your patella back on track.
 
@@ -226,7 +226,7 @@ The best brace for patellofemoral pain will apply an external force that counter
 
 A knee support brace will stop the patella from deviating too far laterally, but the patella can move in other planes too. Using a knee brace with therapeutic exercises will help ease that pain more effectively.
 
-##The Best Brace for Patellofemoral Pain Syndrome
+## The Best Brace for Patellofemoral Pain Syndrome
 
 With so many types of knee supports available, it can be difficult to know which is the best brace for patellofemoral pain syndrome. It’s important to choose the correct brace to address your type of knee pain.
 
@@ -252,7 +252,7 @@ What we particularly like about this knee brace is the knitted cotton fabric is 
 | Machine washable. |  |
 
 
-<span style="text-align: center;"><a href="https://www.amazon.com/Knee-Brace-Hinged-Open-Patella/dp/B001M0A4J4?imprToken=lFcarFcP8vgtc9JVmVVQfQ&slotNum=3&SubscriptionId=AKIAJFQC6LY6SIMGJTXA&tag=ha-best-braces-patellofemoral-pain-syndrome-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B001M0A4J4" target="_blank" class='c-btn'>CLICK FOR PRICE</a></span> 
+<span style="align: center;"><a href="https://www.amazon.com/Knee-Brace-Hinged-Open-Patella/dp/B001M0A4J4?imprToken=lFcarFcP8vgtc9JVmVVQfQ&slotNum=3&SubscriptionId=AKIAJFQC6LY6SIMGJTXA&tag=ha-best-braces-patellofemoral-pain-syndrome-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B001M0A4J4" target="_blank" class='c-btn'>CLICK FOR PRICE</a></span> 
 <br>
 <br>
 <br>
@@ -274,12 +274,9 @@ A reinforced patellar gap aids with patellar tracking while a two-point geared h
 
 
 
-<span style="text-align: center;"><a href="https://www.amazon.com/Knee-Brace-Hinged-Open-Patella/dp/B001M0A4J4?imprToken=lFcarFcP8vgtc9JVmVVQfQ&slotNum=3&SubscriptionId=AKIAJFQC6LY6SIMGJTXA&tag=ha-best-braces-patellofemoral-pain-syndrome-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B001M0A4J4" target="_blank" class='c-btn'>CLICK FOR PRICE</a></span> 
+<span style="align: center;"><a href="https://www.amazon.com/Knee-Brace-Hinged-Open-Patella/dp/B001M0A4J4?imprToken=lFcarFcP8vgtc9JVmVVQfQ&slotNum=3&SubscriptionId=AKIAJFQC6LY6SIMGJTXA&tag=ha-best-braces-patellofemoral-pain-syndrome-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B001M0A4J4" target="_blank" class='c-btn'>CLICK FOR PRICE</a></span> 
 
 <br>
-<br>
-<br>
-
 
 ### Compressions Knee Brace with Open Patella 
   ![My helpful screenshot](images/posts/16.jpg)
@@ -297,14 +294,10 @@ Three adjustable straps allow you to adjust the tension where you need it with t
 | Massaging effect for pain relief. | <i class="fa fa-remove"></i> Too restrictive for running and may shorten your stride. |
 | Machine washable. |  |
 
-<span style="text-align: center;"><a href="https://www.amazon.com/Knee-Brace-Hinged-Open-Patella/dp/B001M0A4J4?imprToken=lFcarFcP8vgtc9JVmVVQfQ&slotNum=3&SubscriptionId=AKIAJFQC6LY6SIMGJTXA&tag=ha-best-braces-patellofemoral-pain-syndrome-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B001M0A4J4" target="_blank" class='c-btn'>CLICK FOR PRICE</a></span> 
+<span style="align: center;"><a href="https://www.amazon.com/Knee-Brace-Hinged-Open-Patella/dp/B001M0A4J4?imprToken=lFcarFcP8vgtc9JVmVVQfQ&slotNum=3&SubscriptionId=AKIAJFQC6LY6SIMGJTXA&tag=ha-best-braces-patellofemoral-pain-syndrome-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B001M0A4J4" target="_blank" class='c-btn'>CLICK FOR PRICE</a></span> 
 
 <br>
-<br>
-<br>
-
-
- ### DonJoy Lite Knee Support Brace 
+### DonJoy Lite Knee Support Brace 
    ![My helpful screenshot](images/posts/16.jpg)
    
    This comfortable patella support brace features removable plastic hinges, a gel pad around the patella and adjustable Velcro straps. Combined with a supportive structure made from Breath-O-Prene, this brace helps alleviate patella pain and aligns your kneecap during movements. Side hinges provide additional medial/lateral support and provide a constant pull on the kneecap during flexion and extension to realign the patella.
@@ -322,13 +315,9 @@ The high quality Breath-O-Prene provides a comfortable fit with adjustable Velcr
 <span style="text-align: center;"><a href="https://www.amazon.com/Knee-Brace-Hinged-Open-Patella/dp/B001M0A4J4?imprToken=lFcarFcP8vgtc9JVmVVQfQ&slotNum=3&SubscriptionId=AKIAJFQC6LY6SIMGJTXA&tag=ha-best-braces-patellofemoral-pain-syndrome-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B001M0A4J4" target="_blank" class='c-btn'>CLICK FOR PRICE</a></span> 
  
 <br>
-<br>
-<br>
 
-
- ### Vive Knee Brace 
- 
-![My helpful screenshot](images/posts/16.jpg)
+### Vive Knee Brace 
+ ![My helpful screenshot](images/posts/16.jpg)
 
 This budget-priced all-purpose knee brace from Vive can help with knee stability and support, preventing or treating the symptoms of patellofemoral pain syndrome. A reinforced open-patella design supports your kneecap and reduces the pressure and stress created by movement. Proper alignment of the ACL and MCL helps to relieve strains, sprains and improves patellar tracking while allowing for a full range of motion.
 

@@ -306,11 +306,7 @@ The high quality Breath-O-Prene provides a comfortable fit with adjustable Velcr
 
 | Pros | Cons |
 |-------|--------|
-| <i class="fa fa-check"></i>  Knitted cotton fabric is more skin friendly than neoprene. | <i class="fa fa-remove"></i> Expensive. |
-| <i class="fa fa-check"></i>  Six sizes available for a custom fit. | <i class="fa fa-remove"></i> Only fits one leg with sizes available for right or left. |
-| <i class="fa fa-check"></i>  Stabilizes knee cap without limiting movement with two supportive pads. | <i class="fa fa-remove"></i> If you have larger thighs it can be too tight. |
-| Massaging effect for pain relief. | <i class="fa fa-remove"></i> Too restrictive for running and may shorten your stride. |
-| Machine washable. |  |
+|<p><i class="fa fa-check"></i>  Knitted cotton fabric is more skin friendly than neoprene.</p><p><i class="fa fa-check"></i>  Six sizes available for a custom fit.</p><p><i class="fa fa-check"></i>  Stabilizes knee cap without limiting movement with two supportive pads.</p><p><i class="fa fa-check"></i> Massaging effect for pain relief.</p>|<p><i class="fa fa-remove"></i> Too restrictive for running and may shorten your stride.</p><p><i class="fa fa-remove"></i> If you have larger thighs it can be too tight.</p><p><i class="fa fa-remove"></i> Only fits one leg with sizes available for right or left.</p><p><i class="fa fa-remove"></i> Expensive.</p><p><i class="fa fa-remove"></i> Expensive.</p>|
 
 <span style="text-align: center;"><a href="https://www.amazon.com/Knee-Brace-Hinged-Open-Patella/dp/B001M0A4J4?imprToken=lFcarFcP8vgtc9JVmVVQfQ&slotNum=3&SubscriptionId=AKIAJFQC6LY6SIMGJTXA&tag=ha-best-braces-patellofemoral-pain-syndrome-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B001M0A4J4" target="_blank" class='c-btn'>CLICK FOR PRICE</a></span> 
  

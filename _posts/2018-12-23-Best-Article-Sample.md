@@ -14,6 +14,8 @@ A generic term for pain at the front of the knee, in most cases of patellofemora
 
 When combined with other knee rehabilitation treatments, a knee support brace will play a key part in relieving patellofemoral pain. If you suffer from a nagging pain at the front of the knee, don’t worry we’ve got you covered as we look at options for the best brace for patellofemoral pain syndrome.
 
+What follows is a comprehensive review of ten wireless chargers, picked either because I wanted to see if they were as good as they claimed to be, or because people asked me to look at them specifically. If you don’t want the deep dive and would rather get to the point with some useful takeaways, then here are the top ten wireless chargers on the market:
+
 <div >
 	<table >
 			<thead>

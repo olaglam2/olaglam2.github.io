@@ -322,19 +322,23 @@ Secured with three strong hook-and-loop straps, the knee brace fits most knees u
 <table>
 	<tr>
 		<td>
+		<ul>
 		<H4>Pros</h4>
-		<p><i class="fa fa-check"></i>  Knitted cotton fabric is more skin friendly than neoprene.</p>
-		<p><i class="fa fa-check"></i>  Six sizes available for a custom fit.</p> 
-		<p><i class="fa fa-check"></i>  Stabilizes knee cap without limiting movement with two supportive pads.</p>
-		<p><i class="fa fa-check"></i> Massaging effect for pain relief.</p>
+		<li><i class="fa fa-check"></i>  Knitted cotton fabric is more skin friendly than neoprene.</li>
+		<li><i class="fa fa-check"></i>  Six sizes available for a custom fit.</li> 
+		<li><i class="fa fa-check"></i>  Stabilizes knee cap without limiting movement with two supportive pads.</li>
+		<li><i class="fa fa-check"></i> Massaging effect for pain relief.</li>
+		</ul>
 		</td>
 		<td>
+		<ul>
 		<H4>Pros</h4>
-		<p><i class="fa fa-remove"></i> Too restrictive for running and may shorten your stride.</p>
-		<p><i class="fa fa-remove"></i> If you have larger thighs it can be too tight.</p>
-		<p><i class="fa fa-remove"></i> Only fits one leg with sizes available for right or left.</p>
-		<p><i class="fa fa-remove"></i> Expensive.</p>
-		<p><i class="fa fa-remove"></i> Expensive.</p>
+		<li><i class="fa fa-remove"></i> Too restrictive for running and may shorten your stride.</li>
+		<li><i class="fa fa-remove"></i> If you have larger thighs it can be too tight.</li>
+		<li><i class="fa fa-remove"></i> Only fits one leg with sizes available for right or left.</li>
+		<li><i class="fa fa-remove"></i> Expensive.</li>
+		<li><i class="fa fa-remove"></i> Expensive.</li>
+		</ul>
 		</td>
 	</tr> 
 </table>
@@ -393,20 +397,3 @@ Not the most glamorous subject, but important none-the-less. I'll go through my 
 
 ### 8. Future Upgrades
 I'll finish off the series with some thoughts on areas where I could improve the studio in future. I have no idea whether I will ever have the budget to implement any of these, but it's a pleasant way to pass some time!
-
-
-<table>
-<tr><th>Table 1 Heading 1 </th><th>Table 1 Heading 2</th></tr>
-<tr><td>
-
-|Table 1| Middle | Table 2|
-|--|--|--|
-|a| not b|and c |
-
-</td><td>
-
-|b|1|2|3| 
-|--|--|--|--|
-|a|s|d|f|
-
-</td></tr> </table>

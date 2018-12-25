@@ -242,14 +242,21 @@ We’ve looked at many of the top-selling braces to bring you, in our opinion, t
  The GenuTrain P3 knee brace has been designed to relieve pain from the misalignment of the knee cap with P3 standing for permanent patella protection. Using a corrective strap, an integrated ring-shaped pad holds the kneecap securely and prevents drifting. This knitted brace/sleeve can be used to treat and prevent patellofemoral pain syndrome, chondromalacia, dislocation of the knee or other patella-related problems.
 
 What we particularly like about this knee brace is the knitted cotton fabric is both breathable and moisture wicking yet offers a medical-grade compression. Along with a wide range of sizing options that go beyond small, medium or large, this sleeve offers an all-day comfortable fit that won’t slip or bunch up. An incorporated viscoelastic Omega pad surrounds your kneecap to relieve pain and provide a massaging pressure.
+### The Good
+1. We love the Buck Forever warranty which we think is as good as it gets in the industry.
+2. It has a removable clip if you don’t use it, but unfortunately, it’s not reversible in any way.
+3. It features a very solid mid-lock back mechanism.
+4. It’s made of a decent steel that is excellent quality for the price.
+5. Fully made in the USA (love this one).
+6. Gimping on the handle is in two locations to accommodate two different grips.
+7. Thumb studs on both sides of the blade with overall good look and feel.
 
-| Pros | Cons |
-|-------|--------|
-| <i class="fa fa-check"></i>  Knitted cotton fabric is more skin friendly than neoprene. | <i class="fa fa-remove"></i> Expensive. |
-| <i class="fa fa-check"></i>  Six sizes available for a custom fit. | <i class="fa fa-remove"></i> Only fits one leg with sizes available for right or left. |
-| <i class="fa fa-check"></i>  Stabilizes knee cap without limiting movement with two supportive pads. | <i class="fa fa-remove"></i> If you have larger thighs it can be too tight. |
-| Massaging effect for pain relief. | <i class="fa fa-remove"></i> Too restrictive for running and may shorten your stride. |
-| Machine washable. |  |
+### The Bad
+1.The opening of the blade was a bit sticky and felt like a bit too much friction.  The engineering on this issue could be a bit better.
+2. While very light, the injection-molded handle feels like a cross between styrofoam and plastic.  It has a cheap feel to it and I always feel like it could break at any moment.
+3. If you’re using it for heavier-duty tasks, you’ll notice there’s a slight movement of the blade side to side – though it’s minimal and still feels pretty solid.
+4. The blade is not beautifully finished.
+5. There are no steel liners in the handle for stability and durability.
 
 
 <span style="align: center;"><a href="https://www.amazon.com/Knee-Brace-Hinged-Open-Patella/dp/B001M0A4J4?imprToken=lFcarFcP8vgtc9JVmVVQfQ&slotNum=3&SubscriptionId=AKIAJFQC6LY6SIMGJTXA&tag=ha-best-braces-patellofemoral-pain-syndrome-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B001M0A4J4" target="_blank" class='c-btn'>CLICK FOR PRICE</a></span> 
@@ -264,13 +271,21 @@ What we particularly like about this knee brace is the knitted cotton fabric is 
 
 A reinforced patellar gap aids with patellar tracking while a two-point geared hinge system helps control flexion and extension movements of connected muscles. A variable compression system (VCS) uses three straps to ensure blood flow safety while providing maximum joint protection and stability. One size fits all, is suitable for use by both men and women and is comfortable to wear with the heat therapeutic neoprene fabric.
 
-| Pros | Cons |
-|-------|--------|
-| <i class="fa fa-check"></i>  Knitted cotton fabric is more skin friendly than neoprene. | <i class="fa fa-remove"></i> Expensive. |
-| <i class="fa fa-check"></i>  Six sizes available for a custom fit. | <i class="fa fa-remove"></i> Only fits one leg with sizes available for right or left. |
-| <i class="fa fa-check"></i>  Stabilizes knee cap without limiting movement with two supportive pads. | <i class="fa fa-remove"></i> If you have larger thighs it can be too tight. |
-| Massaging effect for pain relief. | <i class="fa fa-remove"></i> Too restrictive for running and may shorten your stride. |
-| Machine washable. |  |
+### The Good
+1. We love the Buck Forever warranty which we think is as good as it gets in the industry.
+2. It has a removable clip if you don’t use it, but unfortunately, it’s not reversible in any way.
+3. It features a very solid mid-lock back mechanism.
+4. It’s made of a decent steel that is excellent quality for the price.
+5. Fully made in the USA (love this one).
+6. Gimping on the handle is in two locations to accommodate two different grips.
+7. Thumb studs on both sides of the blade with overall good look and feel.
+
+### The Bad
+1.The opening of the blade was a bit sticky and felt like a bit too much friction.  The engineering on this issue could be a bit better.
+2. While very light, the injection-molded handle feels like a cross between styrofoam and plastic.  It has a cheap feel to it and I always feel like it could break at any moment.
+3. If you’re using it for heavier-duty tasks, you’ll notice there’s a slight movement of the blade side to side – though it’s minimal and still feels pretty solid.
+4. The blade is not beautifully finished.
+5. There are no steel liners in the handle for stability and durability.
 
 
 
@@ -286,13 +301,21 @@ A reinforced patellar gap aids with patellar tracking while a two-point geared h
 Three adjustable straps allow you to adjust the tension where you need it with this one-size-fits-all patella brace—recommended for thigh circumferences from 12 to 18 inches. An open-patella design relieves pressure on the kneecap and stabilizes it, with a steel spring side providing more lateral support. This flexible neoprene brace offers you excellent movement, substantial comfort and extra support. Compressions even offers a 100 percent one-year money-back guarantee if you aren’t completely satisfied.
 
 
-| Pros | Cons |
-|-------|--------|
-| <i class="fa fa-check"></i>  Knitted cotton fabric is more skin friendly than neoprene. | <i class="fa fa-remove"></i> Expensive. |
-| <i class="fa fa-check"></i>  Six sizes available for a custom fit. | <i class="fa fa-remove"></i> Only fits one leg with sizes available for right or left. |
-| <i class="fa fa-check"></i>  Stabilizes knee cap without limiting movement with two supportive pads. | <i class="fa fa-remove"></i> If you have larger thighs it can be too tight. |
-| Massaging effect for pain relief. | <i class="fa fa-remove"></i> Too restrictive for running and may shorten your stride. |
-| Machine washable. |  |
+### The Good
+1. We love the Buck Forever warranty which we think is as good as it gets in the industry.
+2. It has a removable clip if you don’t use it, but unfortunately, it’s not reversible in any way.
+3. It features a very solid mid-lock back mechanism.
+4. It’s made of a decent steel that is excellent quality for the price.
+5. Fully made in the USA (love this one).
+6. Gimping on the handle is in two locations to accommodate two different grips.
+7. Thumb studs on both sides of the blade with overall good look and feel.
+
+### The Bad
+1.The opening of the blade was a bit sticky and felt like a bit too much friction.  The engineering on this issue could be a bit better.
+2. While very light, the injection-molded handle feels like a cross between styrofoam and plastic.  It has a cheap feel to it and I always feel like it could break at any moment.
+3. If you’re using it for heavier-duty tasks, you’ll notice there’s a slight movement of the blade side to side – though it’s minimal and still feels pretty solid.
+4. The blade is not beautifully finished.
+5. There are no steel liners in the handle for stability and durability.
 
 <span style="align: center;"><a href="https://www.amazon.com/Knee-Brace-Hinged-Open-Patella/dp/B001M0A4J4?imprToken=lFcarFcP8vgtc9JVmVVQfQ&slotNum=3&SubscriptionId=AKIAJFQC6LY6SIMGJTXA&tag=ha-best-braces-patellofemoral-pain-syndrome-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B001M0A4J4" target="_blank" class='c-btn'>CLICK FOR PRICE</a></span> 
 
@@ -304,9 +327,21 @@ Three adjustable straps allow you to adjust the tension where you need it with t
 
 The high quality Breath-O-Prene provides a comfortable fit with adjustable Velcro straps so you can keep wearing the brace all day without fear of it slipping. The fabric is also antimicrobial, moisture wicking, hypoallergenic, lightweight and breathable. The brace only provides light support, but is ideal for those suffering from patellofemoral pain syndrome or other symptoms of injured patellas.
 
-| Pros | Cons |
-|-------|--------|
-|<p><i class="fa fa-check"></i>  Knitted cotton fabric is more skin friendly than neoprene.</p><p><i class="fa fa-check"></i>  Six sizes available for a custom fit.</p><p><i class="fa fa-check"></i>  Stabilizes knee cap without limiting movement with two supportive pads.</p><p><i class="fa fa-check"></i> Massaging effect for pain relief.</p>|<p><i class="fa fa-remove"></i> Too restrictive for running and may shorten your stride.</p><p><i class="fa fa-remove"></i> If you have larger thighs it can be too tight.</p><p><i class="fa fa-remove"></i> Only fits one leg with sizes available for right or left.</p><p><i class="fa fa-remove"></i> Expensive.</p><p><i class="fa fa-remove"></i> Expensive.</p>|
+### The Good
+1. We love the Buck Forever warranty which we think is as good as it gets in the industry.
+2. It has a removable clip if you don’t use it, but unfortunately, it’s not reversible in any way.
+3. It features a very solid mid-lock back mechanism.
+4. It’s made of a decent steel that is excellent quality for the price.
+5. Fully made in the USA (love this one).
+6. Gimping on the handle is in two locations to accommodate two different grips.
+7. Thumb studs on both sides of the blade with overall good look and feel.
+
+### The Bad
+1.The opening of the blade was a bit sticky and felt like a bit too much friction.  The engineering on this issue could be a bit better.
+2. While very light, the injection-molded handle feels like a cross between styrofoam and plastic.  It has a cheap feel to it and I always feel like it could break at any moment.
+3. If you’re using it for heavier-duty tasks, you’ll notice there’s a slight movement of the blade side to side – though it’s minimal and still feels pretty solid.
+4. The blade is not beautifully finished.
+5. There are no steel liners in the handle for stability and durability.
 
 <span style="text-align: center;"><a href="https://www.amazon.com/Knee-Brace-Hinged-Open-Patella/dp/B001M0A4J4?imprToken=lFcarFcP8vgtc9JVmVVQfQ&slotNum=3&SubscriptionId=AKIAJFQC6LY6SIMGJTXA&tag=ha-best-braces-patellofemoral-pain-syndrome-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B001M0A4J4" target="_blank" class='c-btn'>CLICK FOR PRICE</a></span> 
  

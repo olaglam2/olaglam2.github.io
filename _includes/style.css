@@ -1853,17 +1853,22 @@ html,body{
     cursor:pointer;
     transition:250ms;
     text-align:center;
+    text-transform: uppercase;
     vertical-align:middle;
     white-space:nowrap;
     outline:none;
     line-height:initial;
-    border:none;
-    background-color:#fff;
+    background-color:#F89406;
     font-size:16px;
     font-family:Rubik,Helvetica,Arial,sans-serif;
     border:1px solid #000;
-    font-size:14px;
     letter-spacing:1px
+    margin:auto;
+    display:block;
+    color:#fff;
+    box-shadow:0 0px 5px #929292;
+    max-width: 248px;
+    width: 100%;
 }
 .c-btn:hover,.c-btn:active,.c-btn:focus{
     color:#fff;

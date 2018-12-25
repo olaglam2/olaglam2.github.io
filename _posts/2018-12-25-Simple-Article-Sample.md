@@ -33,23 +33,20 @@ The blade is made of 420 HC steel which is approaching the wear resistance of hi
 It’s also a drop-point blade with a bit of a hollow grind.
 
 ### The Good
-
-    We love the Buck Forever warranty which we think is as good as it gets in the industry.
-    It has a removable clip if you don’t use it, but unfortunately, it’s not reversible in any way.
-    It features a very solid mid-lock back mechanism.
-    It’s made of a decent steel that is excellent quality for the price.
-    Fully made in the USA (love this one).
-    Gimping on the handle is in two locations to accommodate two different grips.
-    Thumb studs on both sides of the blade with overall good look and feel.
+1. We love the Buck Forever warranty which we think is as good as it gets in the industry.
+2. It has a removable clip if you don’t use it, but unfortunately, it’s not reversible in any way.
+3. It features a very solid mid-lock back mechanism.
+4. It’s made of a decent steel that is excellent quality for the price.
+5. Fully made in the USA (love this one).
+6. Gimping on the handle is in two locations to accommodate two different grips.
+7. Thumb studs on both sides of the blade with overall good look and feel.
 
 ### The Bad
-
-    The opening of the blade was a bit sticky and felt like a bit too much friction.  The engineering on this issue could be a bit better.
-    While very light, the injection-molded handle feels like a cross between styrofoam and plastic.  It has a cheap feel to it and I always feel like it could break at any moment.
-    If you’re using it for heavier-duty tasks, you’ll notice there’s a slight movement of the blade side to side – though it’s minimal and still feels pretty solid.
-    The blade is not beautifully finished.
-    There are no steel liners in the handle for stability and durability.
-
+1.The opening of the blade was a bit sticky and felt like a bit too much friction.  The engineering on this issue could be a bit better.
+2. While very light, the injection-molded handle feels like a cross between styrofoam and plastic.  It has a cheap feel to it and I always feel like it could break at any moment.
+3. If you’re using it for heavier-duty tasks, you’ll notice there’s a slight movement of the blade side to side – though it’s minimal and still feels pretty solid.
+4. The blade is not beautifully finished.
+5. There are no steel liners in the handle for stability and durability.
 ### Caution
 
 The mid-lock back mechanism can release during a backward grip (see video below).  Though this is unlikely to happen to most people, it has happened to owners of this knife in the past.

@@ -47,7 +47,7 @@ What follows is a comprehensive review of ten wireless chargers, picked either b
 					</td>
 					<td width="30%">	
 						<ul style="list-style: none;">
-						<li style="text-align: center;"> <H4> Our #1 Rated </H4></li>
+						<li style="text-align: center;" class="rated" > <H4> Our #1 Rated </H4></li>
 						<li style="text-align: center;"> 
 							<span class="fa fa-star checked"></span>
 						      	<span class="fa fa-star checked"></span>
@@ -80,7 +80,7 @@ What follows is a comprehensive review of ten wireless chargers, picked either b
 					</td>
 					<td width="30%">	
 						<ul style="list-style: none;">
-						<li style="text-align: center;"> <H4> Our #2 Rated </H4></li>
+						<li style="text-align: center;" class="rated" > <H4> Our #2 Rated </H4></li>
 						<li style="text-align: center;"> 
 							<span class="fa fa-star checked"></span>
 						      	<span class="fa fa-star checked"></span>
@@ -113,7 +113,7 @@ What follows is a comprehensive review of ten wireless chargers, picked either b
 					</td>
 					<td width="30%">	
 						<ul style="list-style: none;">
-						<li style="text-align: center;"> <H4> Our #3 Rated </H4></li>
+						<li style="text-align: center;" class="rated" > <H4> Our #3 Rated </H4></li>
 						<li style="text-align: center;"> 
 							<span class="fa fa-star checked"></span>
 						      	<span class="fa fa-star checked"></span>
@@ -146,7 +146,7 @@ What follows is a comprehensive review of ten wireless chargers, picked either b
 					</td>
 					<td width="30%">	
 						<ul style="list-style: none;">
-						<li style="text-align: center;"> <H4> Our #4 Rated </H4></li>
+						<li style="text-align: center;" class="rated" > <H4> Our #4 Rated </H4></li>
 						<li style="text-align: center;"> 
 							<span class="fa fa-star checked"></span>
 						      	<span class="fa fa-star checked"></span>
@@ -179,7 +179,7 @@ What follows is a comprehensive review of ten wireless chargers, picked either b
 					</td>
 					<td width="30%">	
 						<ul style="list-style: none;">
-						<li style="text-align: center;"> <H4> Our #5 Rated </H4></li>
+						<li style="text-align: center;" class="rated" > <H4> Our #5 Rated </H4></li>
 						<li style="text-align: center;"> 
 							<span class="fa fa-star checked"></span>
 						      	<span class="fa fa-star checked"></span>

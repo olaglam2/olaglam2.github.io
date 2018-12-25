@@ -9,6 +9,8 @@ tags: personal pagination
 ## WHY PINK?
 So glad you asked!  I’ve asked myself that question a number of times as I noticed more and more excellent PINK knives from America’s top companies like Spyderco, Ontario Knife Co., Buck, Kershaw, etc.  What’s the deal?  I asked that question to Ontario Knife’s marketing director Matt recently, and the answer was something I never expected.  In fact, before he answered, I offered my own thoughts which I was sure would be the main reason.  I said, “oh, I guess it’s for your wife or girlfriend or even daughter perhaps right?”.  He looked a bit surprised and stumbled over his words as he said:  “well, ah, sure, I guess that would be a good reason too!”   It was my turn to be surprised at his response so I was eager to know what was his reason for manufacturing and selling pink-handled pocket knives.
 
+<br>
+
 #### Check Price : <span style="text-align: center;"><a href="https://www.amazon.com/Knee-Brace-Hinged-Open-Patella/dp/B001M0A4J4?imprToken=lFcarFcP8vgtc9JVmVVQfQ&slotNum=3&SubscriptionId=AKIAJFQC6LY6SIMGJTXA&tag=ha-best-braces-patellofemoral-pain-syndrome-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B001M0A4J4" target="_blank" class='c-btn'>AMAZON</a></span> 
 
 <br>
@@ -28,6 +30,7 @@ Specifications
     Mid-lock
     Lanyard hole
 
+<br>
 ### Blade
 
 The blade is made of 420 HC steel which is approaching the wear resistance of high carbon and the corrosion-resistance of stainless.  It features Buck’s proprietary heat-treat process.  That’s the good news!  The bad news (well, not super-bad) is that the blade itself looks a bit tarnished and used – even when it’s 100% brand new and unused!  The finish looked like it was supposed to be shiny, but somehow oxidized and got a bit darker.  Then, somehow a thousand tiny marks that look like mini-scratches are visible on the blade surface as well!  After some thought, I think that was not a mistake, but a deliberate result of some finishing or manufacturing process.  It’s really not a big deal though – just thought I’d mention it!

@@ -393,3 +393,20 @@ Not the most glamorous subject, but important none-the-less. I'll go through my 
 
 ### 8. Future Upgrades
 I'll finish off the series with some thoughts on areas where I could improve the studio in future. I have no idea whether I will ever have the budget to implement any of these, but it's a pleasant way to pass some time!
+
+
+<table>
+<tr><th>Table 1 Heading 1 </th><th>Table 1 Heading 2</th></tr>
+<tr><td>
+
+|Table 1| Middle | Table 2|
+|--|--|--|
+|a| not b|and c |
+
+</td><td>
+
+|b|1|2|3| 
+|--|--|--|--|
+|a|s|d|f|
+
+</td></tr> </table>

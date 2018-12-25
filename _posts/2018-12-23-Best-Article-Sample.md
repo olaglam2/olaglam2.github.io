@@ -326,7 +326,7 @@ Secured with three strong hook-and-loop straps, the knee brace fits most knees u
 <table>
 	<tr>
 		<td>
-		<H3>Pros</H3>
+		<thead><th>Pros</th></thead>
 		<p><i class="fa fa-check"></i>  Knitted cotton fabric is more skin friendly than neoprene.</p>
 		<p><i class="fa fa-check"></i>  Six sizes available for a custom fit.</p> 
 		<p><i class="fa fa-check"></i>  Stabilizes knee cap without limiting movement with two supportive pads.</p>

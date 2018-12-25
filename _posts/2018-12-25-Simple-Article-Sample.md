@@ -11,6 +11,8 @@ So glad you asked!  I’ve asked myself that question a number of times as I not
 
 #### Check Price : <span style="text-align: center;"><a href="https://www.amazon.com/Knee-Brace-Hinged-Open-Patella/dp/B001M0A4J4?imprToken=lFcarFcP8vgtc9JVmVVQfQ&slotNum=3&SubscriptionId=AKIAJFQC6LY6SIMGJTXA&tag=ha-best-braces-patellofemoral-pain-syndrome-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B001M0A4J4" target="_blank" class='c-btn'>AMAZON</a></span> 
 
+<br>
+
 ### Construction
 
 Overall, not exactly a beefy, tough, heavy knife.  The handle feels lighter than just about anything I’ve seen and because of no metal liner in the handle, the blade is a bit wobbly (side to side).  It wouldn’t be my choice for any serious outdoor tasks on a campsite or survival scenario that’s for sure!  However, that is not to say there are no good qualities to this knife!  Read on!
@@ -47,6 +49,7 @@ It’s also a drop-point blade with a bit of a hollow grind.
 3. If you’re using it for heavier-duty tasks, you’ll notice there’s a slight movement of the blade side to side – though it’s minimal and still feels pretty solid.
 4. The blade is not beautifully finished.
 5. There are no steel liners in the handle for stability and durability.
+
 ### Caution
 
 The mid-lock back mechanism can release during a backward grip (see video below).  Though this is unlikely to happen to most people, it has happened to owners of this knife in the past.

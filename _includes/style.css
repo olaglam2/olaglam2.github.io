@@ -986,13 +986,10 @@ table tbody+tbody{
 }
 .c-logo__link{
     display:block;
-    color:#b6974f;
-    font-family:"Merriweather",serif;
-    font-size:42px;
-    text-transform: uppercase;
-    font-weight: 700;
-    transition:color 500ms ease-in-out;
-        font-style: italic;
+    color:#000;
+    font-family:"Playfair Display",serif;
+    font-size:24px;
+    transition:color 500ms ease-in-out
 }
 @media (min-width: 40em){
     .c-logo__link{
@@ -1338,26 +1335,14 @@ html,body{
     flex-direction:column;
     margin-bottom:32px
 }
-@media (min-width: 50em){
-    .c-post-card{
-        flex-direction:row;
-    }
-    }
+
 .c-post-card-wrap{
     display:flex
 }
 .c-post-card__media{
     overflow:hidden;
-    width:100%;
-
-   padding-right: 16px;
-      
+    background-color:#F4F6F8
 }
-@media (min-width: 64em){
-    .c-post-card__media{
-        width:32%;
-    }
-    }
 .c-post-card__image{
     display:block;
     position:relative;
@@ -1389,14 +1374,9 @@ html,body{
     padding-bottom:75%
 }
 .c-post-card__content{
-    flex-grow:1;
-    width:100%;
+    flex-grow:1
 }
-@media (min-width: 64em){
-    .c-post-card__content{
-        width:68%;
-    }
-    }
+
 .c-post-card__tags{
     float:left;
     padding-left:8px;
@@ -1447,19 +1427,14 @@ html,body{
     transition:500ms
 }
 
-@media (max-width: 63.99em){
-    .c-post-card__title{
-         padding-top:16px;
-    }
-}
-
 .c-post-card__excerpt{
-   
+    display:none;
     margin-bottom:0;
     color:#5D738D;
-    font-size:12px;
+    font-size:14px;
     line-height:22px
 }
+        
 .c-post-card__meta{
     line-height:1;
     font-size:12px;

@@ -9,9 +9,9 @@ tags: personal pagination
 
 ## At a Glance
 
-    You can use foam rollers for injury prevention, pre-exercise warm-ups and rehabilitation foam rollers aid in myofascial release through self-massage.
-    Foam roller exercises are popular exercise devices, fitness classes support the use of these simple gadgets raising their positive reputation.
-    The use of foam rollers alongside static-stretch exercise warm-up techniques releases tension in muscles and results in a greater range of motion.
+- You can use foam rollers for injury prevention, pre-exercise warm-ups and rehabilitation foam rollers aid in myofascial release through self-massage.
+- Foam roller exercises are popular exercise devices, fitness classes support the use of these simple gadgets raising their positive reputation.
+- The use of foam rollers alongside static-stretch exercise warm-up techniques releases tension in muscles and results in a greater range of motion.
 
 ------------------------
 

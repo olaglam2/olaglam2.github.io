@@ -7,20 +7,19 @@ cover: /images/posts/20.jpg
 tags: personal pagination
 ---
 
-## At a Glance
-
-- You can use foam rollers for injury prevention, pre-exercise warm-ups and rehabilitation foam rollers aid in myofascial release through self-massage.
-- Foam roller exercises are popular exercise devices, fitness classes support the use of these simple gadgets raising their positive reputation.
-- The use of foam rollers alongside static-stretch exercise warm-up techniques releases tension in muscles and results in a greater range of motion.
-
-------------------------
-
 There’s frequently a new gadget that’s touted as a must use in your fitness routine. Foam rollers are no exception. Now mainstream, foam rollers are hyped by fitness gurus as the go-to device for increasing your body’s flexibility, performance and recovery time.
 
 Rolling your body over a tube—what’s that about! Are you puzzled by how to use a foam roller? You’re not alone.
 
 Let’s roll on and learn about the artful technique of rolling out tension and why this simple exercise device has a raving reputation.
 
+## At a Glance
+
+- You can use foam rollers for injury prevention, pre-exercise warm-ups and rehabilitation foam rollers aid in myofascial release through self-massage.
+- Foam roller exercises are popular exercise devices, fitness classes support the use of these simple gadgets raising their positive reputation.
+- The use of foam rollers alongside static-stretch exercise warm-up techniques releases tension in muscles and results in a greater range of motion.
+
+-----
 
 ### What Are Foam Rollers?
 

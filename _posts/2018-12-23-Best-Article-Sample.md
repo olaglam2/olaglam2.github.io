@@ -323,7 +323,9 @@ This budget-priced all-purpose knee brace from Vive can help with knee stability
 
 Secured with three strong hook-and-loop straps, the knee brace fits most knees up to 17.5 inches in circumference. You can also tighten or loosen the straps to achieve the optimal level of compression and support needed for pain relief. A durable Neoprene fabric is used which is naturally moisture wicking and breathable to keep you cool and dry.
 
-
+<table>
+<tr><th>Pros </th><th>Cons</th></tr>
+<tr><td>
 
 |T|
 |--|
@@ -332,6 +334,7 @@ Secured with three strong hook-and-loop straps, the knee brace fits most knees u
 |<i class="fa fa-check"></i>  Stabilizes knee cap without limiting movement with two supportive pads.|
 |<i class="fa fa-check"></i> Massaging effect for pain relief.|
 
+</td><td>
 
 |T| 
 |--|
@@ -340,14 +343,6 @@ Secured with three strong hook-and-loop straps, the knee brace fits most knees u
 | <i class="fa fa-remove"></i> Only fits one leg with sizes available for right or left. |
 |<i class="fa fa-remove"></i> Expensive.|
 |<i class="fa fa-remove"></i> Expensive.|
-
-
-<table>
-<tr><th>Pros </th><th>Cons</th></tr>
-<tr><td>
-
-
-</td><td>
 	
 </td></tr> </table>
 

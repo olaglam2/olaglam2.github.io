@@ -325,17 +325,15 @@ Secured with three strong hook-and-loop straps, the knee brace fits most knees u
 
 <table>
 	<tr>
-		<th>Pros </th>
-		<th>Cons</th>
-	</tr>
-	<tr>
 		<td>
+		<H3>Pros</H3>
 		<p><i class="fa fa-check"></i>  Knitted cotton fabric is more skin friendly than neoprene.</p>
 		<p><i class="fa fa-check"></i>  Six sizes available for a custom fit.</p> 
 		<p><i class="fa fa-check"></i>  Stabilizes knee cap without limiting movement with two supportive pads.</p>
 		<p><i class="fa fa-check"></i> Massaging effect for pain relief.</p>
 		</td>
 		<td>
+		<H3>Cons</H3>	
 		<p><i class="fa fa-remove"></i> Too restrictive for running and may shorten your stride.</p>
 		<p><i class="fa fa-remove"></i> If you have larger thighs it can be too tight.</p>
 		<p><i class="fa fa-remove"></i> Only fits one leg with sizes available for right or left.</p>

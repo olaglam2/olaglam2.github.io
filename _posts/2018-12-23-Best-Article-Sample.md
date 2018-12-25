@@ -259,7 +259,7 @@ What we particularly like about this knee brace is the knitted cotton fabric is 
 5. There are no steel liners in the handle for stability and durability.
 
 
-<span style="align: center;"><a href="https://www.amazon.com/Knee-Brace-Hinged-Open-Patella/dp/B001M0A4J4?imprToken=lFcarFcP8vgtc9JVmVVQfQ&slotNum=3&SubscriptionId=AKIAJFQC6LY6SIMGJTXA&tag=ha-best-braces-patellofemoral-pain-syndrome-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B001M0A4J4" target="_blank" class='c-btn'>CLICK FOR PRICE</a></span> 
+<span style="text-align: center;"><a href="https://www.amazon.com/Knee-Brace-Hinged-Open-Patella/dp/B001M0A4J4?imprToken=lFcarFcP8vgtc9JVmVVQfQ&slotNum=3&SubscriptionId=AKIAJFQC6LY6SIMGJTXA&tag=ha-best-braces-patellofemoral-pain-syndrome-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B001M0A4J4" target="_blank" class="c-btn c-btn--full">CLICK FOR PRICE</a></span>  
 <br>
 <br>
 <br>
@@ -289,7 +289,7 @@ A reinforced patellar gap aids with patellar tracking while a two-point geared h
 
 
 
-<span style="align: center;"><a href="https://www.amazon.com/Knee-Brace-Hinged-Open-Patella/dp/B001M0A4J4?imprToken=lFcarFcP8vgtc9JVmVVQfQ&slotNum=3&SubscriptionId=AKIAJFQC6LY6SIMGJTXA&tag=ha-best-braces-patellofemoral-pain-syndrome-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B001M0A4J4" target="_blank" class='c-btn'>CLICK FOR PRICE</a></span> 
+<span style="text-align: center;"><a href="https://www.amazon.com/Knee-Brace-Hinged-Open-Patella/dp/B001M0A4J4?imprToken=lFcarFcP8vgtc9JVmVVQfQ&slotNum=3&SubscriptionId=AKIAJFQC6LY6SIMGJTXA&tag=ha-best-braces-patellofemoral-pain-syndrome-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B001M0A4J4" target="_blank" class="c-btn c-btn--full">CLICK FOR PRICE</a></span> 
 
 <br>
 
@@ -317,7 +317,7 @@ Three adjustable straps allow you to adjust the tension where you need it with t
 4. The blade is not beautifully finished.
 5. There are no steel liners in the handle for stability and durability.
 
-<span style="align: center;"><a href="https://www.amazon.com/Knee-Brace-Hinged-Open-Patella/dp/B001M0A4J4?imprToken=lFcarFcP8vgtc9JVmVVQfQ&slotNum=3&SubscriptionId=AKIAJFQC6LY6SIMGJTXA&tag=ha-best-braces-patellofemoral-pain-syndrome-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B001M0A4J4" target="_blank" class='c-btn'>CLICK FOR PRICE</a></span> 
+<span style="text-align: center;"><a href="https://www.amazon.com/Knee-Brace-Hinged-Open-Patella/dp/B001M0A4J4?imprToken=lFcarFcP8vgtc9JVmVVQfQ&slotNum=3&SubscriptionId=AKIAJFQC6LY6SIMGJTXA&tag=ha-best-braces-patellofemoral-pain-syndrome-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B001M0A4J4" target="_blank" class="c-btn c-btn--full">CLICK FOR PRICE</a></span> 
 
 <br>
 ### DonJoy Lite Knee Support Brace 
@@ -343,7 +343,7 @@ The high quality Breath-O-Prene provides a comfortable fit with adjustable Velcr
 4. The blade is not beautifully finished.
 5. There are no steel liners in the handle for stability and durability.
 
-<span style="text-align: center;"><a href="https://www.amazon.com/Knee-Brace-Hinged-Open-Patella/dp/B001M0A4J4?imprToken=lFcarFcP8vgtc9JVmVVQfQ&slotNum=3&SubscriptionId=AKIAJFQC6LY6SIMGJTXA&tag=ha-best-braces-patellofemoral-pain-syndrome-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B001M0A4J4" target="_blank" class='c-btn'>CLICK FOR PRICE</a></span> 
+<span style="text-align: center;"><a href="https://www.amazon.com/Knee-Brace-Hinged-Open-Patella/dp/B001M0A4J4?imprToken=lFcarFcP8vgtc9JVmVVQfQ&slotNum=3&SubscriptionId=AKIAJFQC6LY6SIMGJTXA&tag=ha-best-braces-patellofemoral-pain-syndrome-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B001M0A4J4" target="_blank" class="c-btn c-btn--full">CLICK FOR PRICE</a></span> 
  
 <br>
 
@@ -390,7 +390,7 @@ Secured with three strong hook-and-loop straps, the knee brace fits most knees u
 | Machine washable. |  |
 
 
-<span style="text-align: center;"><a href="https://www.amazon.com/Knee-Brace-Hinged-Open-Patella/dp/B001M0A4J4?imprToken=lFcarFcP8vgtc9JVmVVQfQ&slotNum=3&SubscriptionId=AKIAJFQC6LY6SIMGJTXA&tag=ha-best-braces-patellofemoral-pain-syndrome-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B001M0A4J4" target="_blank" class='c-btn'>CLICK FOR PRICE</a></span> 
+<span style="text-align: center;"><a href="https://www.amazon.com/Knee-Brace-Hinged-Open-Patella/dp/B001M0A4J4?imprToken=lFcarFcP8vgtc9JVmVVQfQ&slotNum=3&SubscriptionId=AKIAJFQC6LY6SIMGJTXA&tag=ha-best-braces-patellofemoral-pain-syndrome-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B001M0A4J4" target="_blank" class="c-btn c-btn--full">CLICK FOR PRICE</a></span> 
 
 <br>
 <br>
@@ -401,8 +401,6 @@ Secured with three strong hook-and-loop straps, the knee brace fits most knees u
 When choosing a brace to relieve the pain at the front of your knee, it’s most important to choose one which fits securely and offers constant support to the patella. The wide range of six different sizes which go above and beyond the normal universal sizing of similar knee braces, in our opinion, makes the Bauerfeind GenuTrain P3 knee support the best brace for patellofemoral pain syndrome.
 
 Although the price may be higher than many other braces, you’re getting a great-quality knee support that’s been specifically designed for your condition. A soft cotton knitted fabric provides breathable compression and gives anatomic support wherever actually needed with an integrated gel-ring pad to hold the kneecap securely in place. Using this knee support brace will soon get you pounding those tracks again, just with less pain next time.
-
-
 
 
 

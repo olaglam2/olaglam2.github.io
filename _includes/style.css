@@ -1862,12 +1862,11 @@ html,body{
     font-family:Rubik,Helvetica,Arial,sans-serif;
     border:0px solid #000;
     letter-spacing:1px
-    margin:auto;
-    display:block;
+   display: table;
+   margin: 0 auto
     color:#fff;
     box-shadow:0 0px 5px #929292;
     max-width: 248px;
-    width: 100%;
 }
 .c-btn:hover,.c-btn:active,.c-btn:focus{
     color:#fff;

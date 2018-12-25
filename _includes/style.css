@@ -1847,7 +1847,6 @@ html,body{
     background-color:rgba(0,0,0,0.1)
 }
 .c-btn{
-    display:inline-block;
     padding:16px 32px;
     border-radius:2em;
     cursor:pointer;
@@ -1861,7 +1860,7 @@ html,body{
     background-color:#F89406;
     font-size:16px;
     font-family:Rubik,Helvetica,Arial,sans-serif;
-    border:1px solid #000;
+    border:0px solid #000;
     letter-spacing:1px
     margin:auto;
     display:block;

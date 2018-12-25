@@ -1862,7 +1862,7 @@ html,body{
     font-family:Rubik,Helvetica,Arial,sans-serif;
     border:0px solid #000;
     letter-spacing:1px
-    display: table;
+    display: block;
     margin: 0 auto;
     color:#fff;
     box-shadow:0 0px 5px #929292;

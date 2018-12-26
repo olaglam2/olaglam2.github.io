@@ -1,0 +1,26 @@
+# EDIT THIS FILE
+
+title: Sample BHW #Site Title
+description: Jekyll site for BHW members #Site Description
+baseurl: ''
+url: https://olaglam2.github.io #Site domain. Enter protocol too. http:// or https://
+twitter: johndoe #Twiiter username
+facebook: johndoe #FB username
+instagram: johndoe #IG username
+youtube: UCas0984madnjd8 #Youtube channel ID
+
+markdown: kramdown
+permalink: "/:title"
+paginate: 8
+
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+
+collections:
+  my_categories:
+    output: true
+    permalink: /blog/category/:name/

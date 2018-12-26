@@ -1,5 +1,5 @@
-source 'https://rubygems.org'
-
-gem 'bundler'
-gem 'jekyll'
-gem 'jekyll-seo-tag'
+source 'https://rubygems.org' do
+  gem 'bundler'
+  gem 'jekyll'
+  gem 'jekyll-seo-tag'
+end

@@ -20,7 +20,6 @@ plugins:
 exclude:
   - Gemfile
 
-collections:
-  my_categories:
-    output: true
-    permalink: /blog/category/:name/
+tag_page_layout: tag_page
+tag_page_dir: tag
+tag_permalink_style: pretty

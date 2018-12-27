@@ -4,9 +4,16 @@ title: personal
 ---
 
 <div class='o-wrapper'>
+<div class='o-grid'>
+    <div class='o-grid__col o-grid__col--full'>
+      <div class='c-archive'>
+        <h4 class='c-archive__title'>frontpage</h4>
+      </div>
+    </div>
+  </div>
 <div class='o-grid js-grid' >
 {% for post in site.categories.personal %}
-  <div class='o-grid__col o-grid__col--4-4-s o-grid__col--2-4-m o-grid__col--1-3-l c-post-card-wrap js-post-card-wrap'>	  
+  <div class='o-grid__col o-grid__col--4-4-s o-grid__col--2-4-m o-grid__col--1-3-l c-post-card-wrap '>	  
   <div class='c-post-card'>
     <div class='c-post-card__media'>
       <a href='{{ post.url }}' class='c-post-card__image js-fadein' style='background-image: url({{ post.cover }})'>

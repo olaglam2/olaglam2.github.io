@@ -4,7 +4,7 @@ title: How to Use a Foam Roller No Nonsense Guide
 description: I have decided to write a series on my garden studio, why I decided to build it, the gear I selected and how I use it. Here is a quick overview of my plans for this series
 category: personal
 cover: /images/posts/20.jpg
-tags: personal pagination
+tags: personal
 ---
 
 There’s frequently a new gadget that’s touted as a must use in your fitness routine. Foam rollers are no exception. Now mainstream, foam rollers are hyped by fitness gurus as the go-to device for increasing your body’s flexibility, performance and recovery time.

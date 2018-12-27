@@ -4,7 +4,7 @@ title: The Top 5 Best Braces for Patellofemoral Pain Syndrome in 2018
 description: I have decided to write a series on my garden studio, why I decided to build it, the gear I selected and how I use it. Here is a quick overview of my plans for this series
 category: personal
 cover: /images/posts/20.jpg
-tags: personal pagination
+tags: personal
 ---
 “Run Forrest, Run!” Probably one of the most famous phrases in movie history, but how did Forrest run across the whole country without suffering a knee injury? Patellofemoral pain syndrome is referred to as ‘runner’s knee’, but it can affect anybody. The condition is more common in athletes, but also affects office employees and anyone who sits for prolonged periods.
 

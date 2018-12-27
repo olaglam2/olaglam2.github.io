@@ -1434,7 +1434,6 @@ html,body{
 }
 
 .c-post-card__excerpt{
-    display:none;
     margin-bottom:0;
     color:#5D738D;
     font-size:14px;

@@ -2,7 +2,7 @@
   <div class='o-grid'>
     <div class='o-grid__col o-grid__col--full'>
       <div class='c-archive'>
-        <h4 class='c-archive__title'>{{ page.tag }}</h4>
+        <h4 class='c-archive__title'>{{ page.tags }}</h4>
       </div>
     </div>
   </div>
@@ -21,7 +21,7 @@
     </div>
     <div class='c-post-card__content'>
       <div class='c-post-card__tags'>
-          <a href='{{ post.url }}'>{{ post.tag }}</a>
+          <a href='/tag/{{ page.tag }}.html'>{{ post.tag }}</a>
       </div>
       <h3 class='c-post-card__title'>
         <a href='{{ post.url }}' class='c-post-card__title-link'>

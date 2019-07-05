@@ -25,3 +25,9 @@ tag_page_layout: tag_page
 tag_page_dir: tag
 
 tag_permalink_style: pretty
+
+# image_optim-jekyll-plugin customizations.
+image_optim:
+  archive_dir: "assets/full-res-kittens"
+  cache_file: "tmp/kitty-cache.yml"
+  image_glob: "assets/img/**/cat-*.{gif,png,jpg,jpeg}"

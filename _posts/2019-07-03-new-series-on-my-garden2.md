@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My new Post
+title: My new Post frame that i want to confirm with
 description: I have decided to write a series on my garden studio, why I decided to
   build it, the gear I selected and how I use it. Here is a quick overview of my plans
   for this series

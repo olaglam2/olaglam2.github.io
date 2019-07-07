@@ -13,7 +13,7 @@ tags: personal
 
 I'll kick the series off by explaining what motivated me to build a garden studio, what I use it for and how this affected design decisions. I'll cover how I chose a supplier and provide a step-by-step walkthrough of the build from laying the concrete base to the finished building. This may end up being split into two posts if it gets too long: planning/choosing a supplier; build walkthrough.
 
-## 2[. ]()[Studio Signal](https://forestry.io/docs/editing/)[ ]()Flow
+## 2 . <a href= "https://forestry.io/docs/editing">Flow<a/>
 
 An explanation of the audio signal flow from voice/instrument to speakers/headphones. This is a generic flow that could be applied to any studio, but I will describe it in terms of my own set up.
 

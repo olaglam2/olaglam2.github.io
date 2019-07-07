@@ -1,10 +1,13 @@
 ---
 layout: post
-title: Buck 285 Bantam BLW Mossy Oak Pink Camo Pocket Knife
-description: I have decided to write a series on my garden studio, why I decided to build it, the gear I selected and how I use it. Here is a quick overview of my plans for this series
+title: ck 285 Bantam BLW Mossy Oak Pink Camo Pocket Knife
+description: I have decided to write a series on my garden studio, why I decided to
+  build it, the gear I selected and how I use it. Here is a quick overview of my plans
+  for this series
 category: personal
-cover: /images/posts/20.jpg
+cover: "/images/posts/20.jpg"
 tags: personal
+
 ---
 ## WHY PINK?
 So glad you asked!  I’ve asked myself that question a number of times as I noticed more and more excellent PINK knives from America’s top companies like Spyderco, Ontario Knife Co., Buck, Kershaw, etc.  What’s the deal?  I asked that question to Ontario Knife’s marketing director Matt recently, and the answer was something I never expected.  In fact, before he answered, I offered my own thoughts which I was sure would be the main reason.  I said, “oh, I guess it’s for your wife or girlfriend or even daughter perhaps right?”.  He looked a bit surprised and stumbled over his words as he said:  “well, ah, sure, I guess that would be a good reason too!”   It was my turn to be surprised at his response so I was eager to know what was his reason for manufacturing and selling pink-handled pocket knives.
@@ -63,6 +66,3 @@ Okay, fine!  I can understand if you like the knife but hate the color!  If so, 
 ### Conclusion
 
 The Buck 285 Bantam Mossy Oak Pink Camo knife is an overall decent buy.  It’s not my favorite knife, but at its price point, I wouldn’t complain at all!  If the price was higher, I’d make a bigger deal of its shortcomings, but with a $25 price tag, I’m happy to get it for my girl or for my car (assuming I don’t already have 3 in my glove box and car door!)
-
-
-

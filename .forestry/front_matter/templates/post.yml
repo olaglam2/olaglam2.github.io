@@ -1,0 +1,22 @@
+---
+label: Post
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: textarea
+  name: description
+  label: description
+- type: text
+  name: category
+  label: category
+- type: file
+  name: cover
+  label: cover
+- type: text
+  name: tags
+  label: tags

@@ -34,12 +34,7 @@ layout: compress
 <style>
   {% include style.css %}
 </style>
-<script>
-  var base_url = '',
-      pagination_next_url = base_url + '{% if paginator.next_page %}{{ paginator.next_page_path }}{% else %}1{% endif %}',
-      pagination_next_page_number = '{% if paginator.next_page %}{{ paginator.next_page }}{% else %}1{% endif %}',
-      pagination_available_pages_number = '{{ paginator.total_pages }}';
-</script>
+
 {% seo %}
 
 </head>
